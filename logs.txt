@@ -1,1411 +1,118 @@
-#	timestamp	1606080819
+#	timestamp	1606935147
 #	version	v1.0
 #	addon	v1.5.1
-#	interface	11305
+#	interface	11306
 
 #	region	eu
 #	realm	Nethergarde Keep
 #	guild	Hellscream
 #	base_gp	0
 #	min_ep	1000
-#	decay_p	7
+#	decay_p	90
 #	extras_p	100
 #	outsiders	0
 
 #	roster	name,ep,gp,class
-Chandy-NethergardeKeep	385	385	HUNTER
-Urganvast-NethergardeKeep	366	358	MAGE
-Kleggolas-NethergardeKeep	385	385	HUNTER
-Chandelly-NethergardeKeep	13406	2712	DRUID
-Jakko-NethergardeKeep	13358	1864	WARRIOR
-Happyneal-NethergardeKeep	13882	3282	WARRIOR
-Exigus-NethergardeKeep	5113	503	PRIEST
-Tylvid-NethergardeKeep	5114	2167	WARRIOR
-Perforator-NethergardeKeep	358	358	ROGUE
-Banalrupture-NethergardeKeep	358	358	ROGUE
-Vinhuntz-NethergardeKeep	11637	2515	HUNTER
-Vazadice-NethergardeKeep	385	385	ROGUE
-Ravonix-NethergardeKeep	13646	2750	MAGE
-Lonto-NethergardeKeep	0	385	MAGE
-Deadlyfang-NethergardeKeep	10419	3322	WARRIOR
-Vinpryx-NethergardeKeep	358	358	PRIEST
-Zamaj-NethergardeKeep	4169	1690	HUNTER
-Happybank-NethergardeKeep	358	358	ROGUE
-Urmeldafatty-NethergardeKeep	358	358	DRUID
-Kiddo-NethergardeKeep	0	358	WARLOCK
-Chandrell-NethergardeKeep	371	358	MAGE
-Vazarcanus-NethergardeKeep	496	26377	MAGE
-Iceolated-NethergardeKeep	12374	2089	MAGE
-Tdshogun-NethergardeKeep	12634	5473	SHAMAN
-Eedgi-NethergardeKeep	11697	2199	ROGUE
-Baddy-NethergardeKeep	390	358	DRUID
-Possuma-NethergardeKeep	385	385	MAGE
-Possumo-NethergardeKeep	13034	1638	PRIEST
-Woosch-NethergardeKeep	6980	2928	ROGUE
-Kladiar-NethergardeKeep	7588	1421	MAGE
-Corpsechan-NethergardeKeep	3884	1166	WARLOCK
-Jakoo-NethergardeKeep	385	385	SHAMAN
-Enthrallis-NethergardeKeep	13899	1309	ROGUE
-Scorchnsoda-NethergardeKeep	385	385	MAGE
-Vinmax-NethergardeKeep	385	385	MAGE
-Yvonn-NethergardeKeep	563	385	MAGE
-Soulrider-NethergardeKeep	8219	2652	MAGE
-Arasmus-NethergardeKeep	385	385	HUNTER
-Ûrmel-NethergardeKeep	385	385	ROGUE
-Ophidium-NethergardeKeep	12977	3670	PRIEST
-Badazz-NethergardeKeep	13882	3301	WARLOCK
-Beefyclyro-NethergardeKeep	9282	2926	WARRIOR
-Koblajan-NethergardeKeep	385	385	WARRIOR
-Relf-NethergardeKeep	385	385	ROGUE
-Rophe-NethergardeKeep	11151	3983	SHAMAN
-Kojaevel-NethergardeKeep	3884	864	DRUID
-Psolo-NethergardeKeep	394	385	DRUID
-Seamara-NethergardeKeep	13702	1135	HUNTER
-Ggjustice-NethergardeKeep	11033	3836	WARLOCK
-Grothaal-NethergardeKeep	8082	2791	HUNTER
-Rumbeer-NethergardeKeep	13870	1448	WARLOCK
-Lémony-NethergardeKeep	746	746	WARLOCK
-Harrak-NethergardeKeep	13352	5553	WARRIOR
-Astrall-NethergardeKeep	394	385	PRIEST
-Nidhog-NethergardeKeep	385	385	ROGUE
-Vazaha-NethergardeKeep	395	385	SHAMAN
-Spookyskel-NethergardeKeep	394	385	MAGE
-Frogg-NethergardeKeep	385	385	MAGE
-Possumon-NethergardeKeep	0	385	WARLOCK
-Pift-NethergardeKeep	1236	864	MAGE
-Verto-NethergardeKeep	358	358	DRUID
-Flowerskank-NethergardeKeep	385	385	SHAMAN
-Ichirga-NethergardeKeep	13862	2091	WARRIOR
-Strongcash-NethergardeKeep	358	358	MAGE
-Klass-NethergardeKeep	399	385	WARLOCK
-Urmel-NethergardeKeep	13826	1157	PRIEST
-Umtiti-NethergardeKeep	12941	1829	ROGUE
-Isabich-NethergardeKeep	385	385	PRIEST
-Chandrina-NethergardeKeep	385	385	WARLOCK
-Zynn-NethergardeKeep	7923	3288	ROGUE
-Brainboi-NethergardeKeep	13632	358	DRUID
-Malassezia-NethergardeKeep	13470	385	PRIEST
-Sneezecheese-NethergardeKeep	5957	1775	DRUID
-Tearless-NethergardeKeep	9097	2284	PRIEST
-Miezy-NethergardeKeep	394	385	PRIEST
-Coachtaylor-NethergardeKeep	8688	3242	PRIEST
-Anuksanna-NethergardeKeep	394	385	WARLOCK
-Morjan-NethergardeKeep	2722	385	SHAMAN
-Magicali-NethergardeKeep	2201	2096	MAGE
-Dirtyberty-NethergardeKeep	7778	4642	WARLOCK
-Kixom-NethergardeKeep	10421	4490	SHAMAN
-Tordis-NethergardeKeep	385	385	SHAMAN
-Grumpyneal-NethergardeKeep	746	0	HUNTER
-Ragehoof-NethergardeKeep	12187	4707	WARRIOR
-Klasik-NethergardeKeep	394	385	WARRIOR
-Elfenjagd-NethergardeKeep	7688	3155	WARRIOR
-Howzaa-NethergardeKeep	8911	4469	MAGE
-Summonposs-NethergardeKeep	358	358	WARLOCK
-Woodlieman-NethergardeKeep	4669	1757	HUNTER
-Løntø-NethergardeKeep	13657	3414	ROGUE
-Vyagra-NethergardeKeep	13777	3495	PRIEST
-Orccrush-NethergardeKeep	394	385	WARRIOR
-Koriah-NethergardeKeep	11767	4319	SHAMAN
-Sameko-NethergardeKeep	5935	2918	SHAMAN
-Woof-NethergardeKeep	13833	3740	DRUID
-Psolokrator-NethergardeKeep	12673	1599	WARRIOR
+Chandy-NethergardeKeep	358	358	HUNTER
+Kixom-NethergardeKeep	10892	5271	SHAMAN
+Urganvast-NethergardeKeep	340	332	MAGE
+Kleggolas-NethergardeKeep	358	358	HUNTER
+Chandelly-NethergardeKeep	13668	2522	DRUID
+Jakko-NethergardeKeep	13623	1733	WARRIOR
+Tearless-NethergardeKeep	9661	3078	PRIEST
+Exigus-NethergardeKeep	4755	467	PRIEST
+Kaktussen-NethergardeKeep	2013	693	PRIEST
+Tylvid-NethergardeKeep	4756	2015	WARRIOR
+Perforator-NethergardeKeep	332	332	ROGUE
+Banalrupture-NethergardeKeep	332	332	ROGUE
+Vinhuntz-NethergardeKeep	12023	2338	HUNTER
+Vazadice-NethergardeKeep	358	358	ROGUE
+Ravonix-NethergardeKeep	13891	2557	MAGE
+Summonposs-NethergardeKeep	332	332	WARLOCK
+Deadlyfang-NethergardeKeep	9689	3089	WARRIOR
+Howzaa-NethergardeKeep	9488	4156	MAGE
+Zamaj-NethergardeKeep	5078	1997	HUNTER
+Happybank-NethergardeKeep	332	332	ROGUE
+Urmeldafatty-NethergardeKeep	332	332	DRUID
+Kiddo-NethergardeKeep	0	332	WARLOCK
+Chandrell-NethergardeKeep	345	332	MAGE
+Vazarcanus-NethergardeKeep	461	24530	MAGE
+Iceolated-NethergardeKeep	12708	1942	MAGE
+Tdshogun-NethergardeKeep	12950	6530	SHAMAN
+Eedgi-NethergardeKeep	12079	2045	ROGUE
+Baddy-NethergardeKeep	362	332	DRUID
+Psolokrator-NethergardeKeep	12986	1818	WARRIOR
+Possumo-NethergardeKeep	13322	3431	PRIEST
+Woosch-NethergardeKeep	7692	2723	ROGUE
+Kladiar-NethergardeKeep	8257	1321	MAGE
+Corpsechan-NethergardeKeep	4813	1084	WARLOCK
+Jakoo-NethergardeKeep	358	358	SHAMAN
+Enthrallis-NethergardeKeep	14127	1217	ROGUE
+Scorchnsoda-NethergardeKeep	358	358	MAGE
+Vinmax-NethergardeKeep	358	358	MAGE
+Yvonn-NethergardeKeep	523	358	MAGE
+Soulrider-NethergardeKeep	8844	3014	MAGE
+Arasmus-NethergardeKeep	358	358	HUNTER
+Jontha-NethergardeKeep	556	556	SHAMAN
+Ûrmel-NethergardeKeep	358	358	ROGUE
+Ophidium-NethergardeKeep	13269	3413	PRIEST
+Badazz-NethergardeKeep	14111	3069	WARLOCK
+Beefyclyro-NethergardeKeep	9833	2721	WARRIOR
+Koblajan-NethergardeKeep	358	358	WARRIOR
+Relf-NethergardeKeep	358	358	ROGUE
+Rophe-NethergardeKeep	11171	3704	SHAMAN
+Kojaevel-NethergardeKeep	4813	803	DRUID
+Psolo-NethergardeKeep	366	358	DRUID
+Løntø-NethergardeKeep	12701	3175	ROGUE
+Seamara-NethergardeKeep	13943	2425	HUNTER
+Ggjustice-NethergardeKeep	10260	3567	WARLOCK
+Grothaal-NethergardeKeep	7516	2595	HUNTER
+Rumbeer-NethergardeKeep	14100	1346	WARLOCK
+Harrak-NethergardeKeep	13218	5164	WARRIOR
+Astrall-NethergardeKeep	366	358	PRIEST
+Nidhog-NethergardeKeep	358	358	ROGUE
+Vazaha-NethergardeKeep	367	358	SHAMAN
+Spookyskel-NethergardeKeep	366	358	MAGE
+Umtiti-NethergardeKeep	13236	1700	ROGUE
+Woof-NethergardeKeep	14065	3478	DRUID
+Zynn-NethergardeKeep	8569	3057	ROGUE
+Possumon-NethergardeKeep	0	358	WARLOCK
+Lonto-NethergardeKeep	0	358	MAGE
+Chandrina-NethergardeKeep	358	358	WARLOCK
+Flowerskank-NethergardeKeep	358	358	SHAMAN
+Ichirga-NethergardeKeep	14092	1944	WARRIOR
+Verto-NethergardeKeep	332	332	DRUID
+Klass-NethergardeKeep	371	358	WARLOCK
+Urmel-NethergardeKeep	14059	1076	PRIEST
+Isabich-NethergardeKeep	358	358	PRIEST
+Orccrush-NethergardeKeep	366	358	WARRIOR
+Happyneal-NethergardeKeep	13310	3052	WARRIOR
+Koriah-NethergardeKeep	11744	4016	SHAMAN
+Vinpryx-NethergardeKeep	332	332	PRIEST
+Malassezia-NethergardeKeep	13728	358	PRIEST
+Brainboi-NethergardeKeep	13878	332	DRUID
+Sneezecheese-NethergardeKeep	6341	1650	DRUID
+Miezy-NethergardeKeep	366	358	PRIEST
+Coachtaylor-NethergardeKeep	9280	3015	PRIEST
+Morjan-NethergardeKeep	2531	358	SHAMAN
+Magicali-NethergardeKeep	3247	1949	MAGE
+Anuksanna-NethergardeKeep	366	358	WARLOCK
+Grumpyneal-NethergardeKeep	693	0	HUNTER
+Icetomeetyou-NethergardeKeep	2201	1000	MAGE
+Ragehoof-NethergardeKeep	12534	4684	WARRIOR
+Elfenjagd-NethergardeKeep	8350	3787	WARRIOR
+Klasik-NethergardeKeep	366	358	WARRIOR
+Tordis-NethergardeKeep	358	358	SHAMAN
+Woodlieman-NethergardeKeep	5543	1634	HUNTER
+Strongcash-NethergardeKeep	332	332	MAGE
+Vyagra-NethergardeKeep	14013	3650	PRIEST
+Pift-NethergardeKeep	1149	803	MAGE
+Dirtyberty-NethergardeKeep	8434	4317	WARLOCK
+Sameko-NethergardeKeep	6720	2713	SHAMAN
+Possuma-NethergardeKeep	358	358	MAGE
+Frogg-NethergardeKeep	358	358	MAGE
 
 #	log	timestamp,type,name,reason,value
-1603573728	GP	Koriah-NethergardeKeep	refund enhancement items	-1449
-1603649335	EP	Brainboi-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Malassezia-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Chandelly-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Rumbeer-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Urmel-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Vinhuntz-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Ichirga-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Seamara-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Enthrallis-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Umtiti-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Tearless-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Psolokrator-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Ggjustice-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Dirtyberty-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Koriah-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Possumo-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Løntø-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Ravonix-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Happyneal-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Sameko-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Elfenjagd-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Iceolated-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Harrak-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Warldor-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Ophidium-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Woof-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Badazz-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Coachtaylor-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Soulrider-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Butterskotch-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Ragehoof-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Kixom-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Rophe-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Beefyclyro-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Grothaal-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Howzaa-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Feryx-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Zynn-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Woosch-NethergardeKeep	The Prophet Skeram	89
-1603649335	EP	Magina-NethergardeKeep	The Prophet Skeram	89
-1603649894	EP	Brainboi-NethergardeKeep	bug trio	89
-1603649894	EP	Malassezia-NethergardeKeep	bug trio	89
-1603649894	EP	Chandelly-NethergardeKeep	bug trio	89
-1603649894	EP	Rumbeer-NethergardeKeep	bug trio	89
-1603649894	EP	Urmel-NethergardeKeep	bug trio	89
-1603649894	EP	Vinhuntz-NethergardeKeep	bug trio	89
-1603649894	EP	Ichirga-NethergardeKeep	bug trio	89
-1603649894	EP	Seamara-NethergardeKeep	bug trio	89
-1603649894	EP	Enthrallis-NethergardeKeep	bug trio	89
-1603649894	EP	Umtiti-NethergardeKeep	bug trio	89
-1603649894	EP	Tearless-NethergardeKeep	bug trio	89
-1603649894	EP	Psolokrator-NethergardeKeep	bug trio	89
-1603649894	EP	Dirtyberty-NethergardeKeep	bug trio	89
-1603649894	EP	Ggjustice-NethergardeKeep	bug trio	89
-1603649894	EP	Koriah-NethergardeKeep	bug trio	89
-1603649894	EP	Possumo-NethergardeKeep	bug trio	89
-1603649894	EP	Løntø-NethergardeKeep	bug trio	89
-1603649894	EP	Ravonix-NethergardeKeep	bug trio	89
-1603649894	EP	Sameko-NethergardeKeep	bug trio	89
-1603649894	EP	Happyneal-NethergardeKeep	bug trio	89
-1603649894	EP	Elfenjagd-NethergardeKeep	bug trio	89
-1603649894	EP	Iceolated-NethergardeKeep	bug trio	89
-1603649894	EP	Harrak-NethergardeKeep	bug trio	89
-1603649894	EP	Warldor-NethergardeKeep	bug trio	89
-1603649894	EP	Ophidium-NethergardeKeep	bug trio	89
-1603649894	EP	Woof-NethergardeKeep	bug trio	89
-1603649894	EP	Badazz-NethergardeKeep	bug trio	89
-1603649894	EP	Coachtaylor-NethergardeKeep	bug trio	89
-1603649894	EP	Soulrider-NethergardeKeep	bug trio	89
-1603649894	EP	Butterskotch-NethergardeKeep	bug trio	89
-1603649894	EP	Ragehoof-NethergardeKeep	bug trio	89
-1603649894	EP	Kixom-NethergardeKeep	bug trio	89
-1603649894	EP	Beefyclyro-NethergardeKeep	bug trio	89
-1603649894	EP	Rophe-NethergardeKeep	bug trio	89
-1603649894	EP	Grothaal-NethergardeKeep	bug trio	89
-1603649894	EP	Howzaa-NethergardeKeep	bug trio	89
-1603649894	EP	Feryx-NethergardeKeep	bug trio	89
-1603649894	EP	Zynn-NethergardeKeep	bug trio	89
-1603649894	EP	Woosch-NethergardeKeep	bug trio	89
-1603649894	EP	Magina-NethergardeKeep	bug trio	89
-1603650249	EP	Brainboi-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Malassezia-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Chandelly-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Rumbeer-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Urmel-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Vinhuntz-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Ichirga-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Seamara-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Enthrallis-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Umtiti-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Tearless-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Psolokrator-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Dirtyberty-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Ggjustice-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Koriah-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Possumo-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Løntø-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Ravonix-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Sameko-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Happyneal-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Elfenjagd-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Iceolated-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Harrak-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Warldor-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Ophidium-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Woof-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Coachtaylor-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Badazz-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Soulrider-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Butterskotch-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Ragehoof-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Kixom-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Beefyclyro-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Rophe-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Grothaal-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Howzaa-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Feryx-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Woosch-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Zynn-NethergardeKeep	Battleguard Sartura	89
-1603650249	EP	Magina-NethergardeKeep	Battleguard Sartura	89
-1603650565	EP	Brainboi-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Malassezia-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Chandelly-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Rumbeer-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Urmel-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Vinhuntz-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Ichirga-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Seamara-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Enthrallis-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Umtiti-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Tearless-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Dirtyberty-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Psolokrator-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Ggjustice-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Koriah-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Possumo-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Løntø-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Ravonix-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Sameko-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Happyneal-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Elfenjagd-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Iceolated-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Harrak-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Warldor-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Ophidium-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Woof-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Coachtaylor-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Badazz-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Soulrider-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Butterskotch-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Ragehoof-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Kixom-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Beefyclyro-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Rophe-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Grothaal-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Howzaa-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Feryx-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Woosch-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Zynn-NethergardeKeep	Fankriss the Unyielding	89
-1603650565	EP	Magina-NethergardeKeep	Fankriss the Unyielding	89
-1603650951	EP	Brainboi-NethergardeKeep	Viscidus	89
-1603650951	EP	Malassezia-NethergardeKeep	Viscidus	89
-1603650951	EP	Chandelly-NethergardeKeep	Viscidus	89
-1603650951	EP	Rumbeer-NethergardeKeep	Viscidus	89
-1603650951	EP	Urmel-NethergardeKeep	Viscidus	89
-1603650951	EP	Vinhuntz-NethergardeKeep	Viscidus	89
-1603650951	EP	Ichirga-NethergardeKeep	Viscidus	89
-1603650951	EP	Seamara-NethergardeKeep	Viscidus	89
-1603650951	EP	Enthrallis-NethergardeKeep	Viscidus	89
-1603650951	EP	Umtiti-NethergardeKeep	Viscidus	89
-1603650951	EP	Tearless-NethergardeKeep	Viscidus	89
-1603650951	EP	Dirtyberty-NethergardeKeep	Viscidus	89
-1603650951	EP	Psolokrator-NethergardeKeep	Viscidus	89
-1603650951	EP	Ggjustice-NethergardeKeep	Viscidus	89
-1603650951	EP	Koriah-NethergardeKeep	Viscidus	89
-1603650951	EP	Possumie-NethergardeKeep	Viscidus	89
-1603650951	EP	Løntø-NethergardeKeep	Viscidus	89
-1603650951	EP	Sameko-NethergardeKeep	Viscidus	89
-1603650951	EP	Ravonix-NethergardeKeep	Viscidus	89
-1603650951	EP	Happyneal-NethergardeKeep	Viscidus	89
-1603650951	EP	Elfenjagd-NethergardeKeep	Viscidus	89
-1603650951	EP	Iceolated-NethergardeKeep	Viscidus	89
-1603650951	EP	Harrak-NethergardeKeep	Viscidus	89
-1603650951	EP	Warldor-NethergardeKeep	Viscidus	89
-1603650951	EP	Seidir-NethergardeKeep	Viscidus	89
-1603650951	EP	Woof-NethergardeKeep	Viscidus	89
-1603650951	EP	Coachtaylor-NethergardeKeep	Viscidus	89
-1603650951	EP	Soulrider-NethergardeKeep	Viscidus	89
-1603650951	EP	Badazz-NethergardeKeep	Viscidus	89
-1603650951	EP	Butterskotch-NethergardeKeep	Viscidus	89
-1603650951	EP	Ragehoof-NethergardeKeep	Viscidus	89
-1603650951	EP	Kixom-NethergardeKeep	Viscidus	89
-1603650951	EP	Beefyclyro-NethergardeKeep	Viscidus	89
-1603650951	EP	Grothaal-NethergardeKeep	Viscidus	89
-1603650951	EP	Rophe-NethergardeKeep	Viscidus	89
-1603650951	EP	Howzaa-NethergardeKeep	Viscidus	89
-1603650951	EP	Feryx-NethergardeKeep	Viscidus	89
-1603650951	EP	Woosch-NethergardeKeep	Viscidus	89
-1603650951	EP	Zynn-NethergardeKeep	Viscidus	89
-1603650951	EP	Magina-NethergardeKeep	Viscidus	89
-1603651516	EP	Brainboi-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Malassezia-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Chandelly-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Rumbeer-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Urmel-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Vinhuntz-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Ichirga-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Seamara-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Enthrallis-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Umtiti-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Tearless-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Dirtyberty-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Psolokrator-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Ggjustice-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Koriah-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Possumo-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Løntø-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Sameko-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Ravonix-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Happyneal-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Elfenjagd-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Iceolated-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Harrak-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Warldor-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Ophidium-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Woof-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Coachtaylor-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Soulrider-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Badazz-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Butterskotch-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Ragehoof-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Kixom-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Beefyclyro-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Grothaal-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Rophe-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Howzaa-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Feryx-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Woosch-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Zynn-NethergardeKeep	Princess Huhuran	89
-1603651516	EP	Magina-NethergardeKeep	Princess Huhuran	89
-1603652549	EP	Brainboi-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Malassezia-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Chandelly-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Rumbeer-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Urmel-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Vinhuntz-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Ichirga-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Seamara-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Enthrallis-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Tearless-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Umtiti-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Dirtyberty-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Psolokrator-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Ggjustice-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Koriah-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Possumo-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Sameko-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Løntø-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Ravonix-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Happyneal-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Elfenjagd-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Iceolated-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Harrak-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Warldor-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Ophidium-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Woof-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Coachtaylor-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Soulrider-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Badazz-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Butterskotch-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Ragehoof-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Kixom-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Beefyclyro-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Grothaal-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Rophe-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Howzaa-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Feryx-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Woosch-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Zynn-NethergardeKeep	Twin Emperors	89
-1603652549	EP	Magina-NethergardeKeep	Twin Emperors	89
-1603654352	EP	Brainboi-NethergardeKeep	Ouro	89
-1603654352	EP	Malassezia-NethergardeKeep	Ouro	89
-1603654352	EP	Chandelly-NethergardeKeep	Ouro	89
-1603654352	EP	Rumbeer-NethergardeKeep	Ouro	89
-1603654352	EP	Urmel-NethergardeKeep	Ouro	89
-1603654352	EP	Vinhuntz-NethergardeKeep	Ouro	89
-1603654352	EP	Ichirga-NethergardeKeep	Ouro	89
-1603654352	EP	Seamara-NethergardeKeep	Ouro	89
-1603654352	EP	Enthrallis-NethergardeKeep	Ouro	89
-1603654352	EP	Tearless-NethergardeKeep	Ouro	89
-1603654352	EP	Umtiti-NethergardeKeep	Ouro	89
-1603654352	EP	Dirtyberty-NethergardeKeep	Ouro	89
-1603654352	EP	Psolokrator-NethergardeKeep	Ouro	89
-1603654352	EP	Ggjustice-NethergardeKeep	Ouro	89
-1603654352	EP	Koriah-NethergardeKeep	Ouro	89
-1603654352	EP	Sameko-NethergardeKeep	Ouro	89
-1603654352	EP	Possumo-NethergardeKeep	Ouro	89
-1603654352	EP	Løntø-NethergardeKeep	Ouro	89
-1603654352	EP	Ravonix-NethergardeKeep	Ouro	89
-1603654352	EP	Happyneal-NethergardeKeep	Ouro	89
-1603654352	EP	Elfenjagd-NethergardeKeep	Ouro	89
-1603654352	EP	Iceolated-NethergardeKeep	Ouro	89
-1603654352	EP	Harrak-NethergardeKeep	Ouro	89
-1603654352	EP	Warldor-NethergardeKeep	Ouro	89
-1603654352	EP	Ophidium-NethergardeKeep	Ouro	89
-1603654352	EP	Woof-NethergardeKeep	Ouro	89
-1603654352	EP	Coachtaylor-NethergardeKeep	Ouro	89
-1603654352	EP	Soulrider-NethergardeKeep	Ouro	89
-1603654352	EP	Badazz-NethergardeKeep	Ouro	89
-1603654352	EP	Butterskotch-NethergardeKeep	Ouro	89
-1603654352	EP	Ragehoof-NethergardeKeep	Ouro	89
-1603654352	EP	Kixom-NethergardeKeep	Ouro	89
-1603654352	EP	Beefyclyro-NethergardeKeep	Ouro	89
-1603654352	EP	Grothaal-NethergardeKeep	Ouro	89
-1603654352	EP	Rophe-NethergardeKeep	Ouro	89
-1603654352	EP	Feryx-NethergardeKeep	Ouro	89
-1603654352	EP	Howzaa-NethergardeKeep	Ouro	89
-1603654352	EP	Woosch-NethergardeKeep	Ouro	89
-1603654352	EP	Zynn-NethergardeKeep	Ouro	89
-1603654352	EP	Magina-NethergardeKeep	Ouro	89
-1603656158	GP	Woof-NethergardeKeep	[Imperial Qiraji Regalia]	1933	|cffa335ee|Hitem:21237::::::::60:::::::|h[Imperial Qiraji Regalia]|h|r
-1603656338	GP	Ravonix-NethergardeKeep	[Ritssyn's Ring of Chaos]	163	|cffa335ee|Hitem:21836::::::::60:::::::|h[Ritssyn's Ring of Chaos]|h|r
-1603656389	GP	Grothaal-NethergardeKeep	[Badge of the Swarmguard]	1000	|cffa335ee|Hitem:21670::::::::60:::::::|h[Badge of the Swarmguard]|h|r
-1603657094	GP	Sameko-NethergardeKeep	[Mantle of Wicked Revenge]	639	|cffa335ee|Hitem:21665::::::::60:::::::|h[Mantle of Wicked Revenge]|h|r
-1603657170	GP	Zynn-NethergardeKeep	[Qiraji Bindings of Command]	345	|cffa335ee|Hitem:20928::::::::60:::::::|h[Qiraji Bindings of Command]|h|r
-1603657206	GP	Dirtyberty-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1603658127	GP	Rophe-NethergardeKeep	[Bracelets of Royal Redemption]	614	|cffa335ee|Hitem:21604::::::::60:::::::|h[Bracelets of Royal Redemption]|h|r
-1603658154	GP	Rophe-NethergardeKeep	[Bracelets of Royal Redemption]	-614	|cffa335ee|Hitem:21604::::::::60:::::::|h[Bracelets of Royal Redemption]|h|r
-1603658164	GP	Ophidium-NethergardeKeep	[Bracelets of Royal Redemption]	614	|cffa335ee|Hitem:21604::::::::60:::::::|h[Bracelets of Royal Redemption]|h|r
-1603658316	GP	Harrak-NethergardeKeep	[Qiraji Execution Bracers]	614	|cffa335ee|Hitem:21602::::::::60:::::::|h[Qiraji Execution Bracers]|h|r
-1603658353	GP	Zynn-NethergardeKeep	[Ouro's Intact Hide]	1096	|cffa335ee|Hitem:20927::::::::60:::::::|h[Ouro's Intact Hide]|h|r
-1603658407	GP	Vinhuntz-NethergardeKeep	[Jom Gabbar]	1370	|cffa335ee|Hitem:23570::::::::60:::::::|h[Jom Gabbar]|h|r
-1603658437	GP	Vinhuntz-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1603658517	GP	Vinhuntz-NethergardeKeep	[Qiraji Bindings of Dominance]	-345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1603658532	GP	Woosch-NethergardeKeep	[Vek'lor's Diadem]	548	|cffa335ee|Hitem:20930::::::::60:::::::|h[Vek'lor's Diadem]|h|r
-1603658596	GP	Koriah-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1603659201	GP	Soulrider-NethergardeKeep	[Vek'nilash's Circlet]	548	|cffa335ee|Hitem:20926::::::::60:::::::|h[Vek'nilash's Circlet]|h|r
-1603661262	EP	Brainboi-NethergardeKeep	C'Thun	89
-1603661262	EP	Malassezia-NethergardeKeep	C'Thun	89
-1603661262	EP	Chandelly-NethergardeKeep	C'Thun	89
-1603661262	EP	Rumbeer-NethergardeKeep	C'Thun	89
-1603661262	EP	Urmel-NethergardeKeep	C'Thun	89
-1603661262	EP	Ichirga-NethergardeKeep	C'Thun	89
-1603661262	EP	Seamara-NethergardeKeep	C'Thun	89
-1603661262	EP	Enthrallis-NethergardeKeep	C'Thun	89
-1603661262	EP	Tearless-NethergardeKeep	C'Thun	89
-1603661262	EP	Umtiti-NethergardeKeep	C'Thun	89
-1603661262	EP	Jakko-NethergardeKeep	C'Thun	89
-1603661262	EP	Eedgi-NethergardeKeep	C'Thun	89
-1603661262	EP	Psolokrator-NethergardeKeep	C'Thun	89
-1603661262	EP	Possumo-NethergardeKeep	C'Thun	89
-1603661262	EP	Løntø-NethergardeKeep	C'Thun	89
-1603661262	EP	Ravonix-NethergardeKeep	C'Thun	89
-1603661262	EP	Happyneal-NethergardeKeep	C'Thun	89
-1603661262	EP	Koriah-NethergardeKeep	C'Thun	89
-1603661262	EP	Vinhuntz-NethergardeKeep	C'Thun	89
-1603661262	EP	Elfenjagd-NethergardeKeep	C'Thun	89
-1603661262	EP	Vyagra-NethergardeKeep	C'Thun	89
-1603661262	EP	Iceolated-NethergardeKeep	C'Thun	89
-1603661262	EP	Dirtyberty-NethergardeKeep	C'Thun	89
-1603661262	EP	Coachtaylor-NethergardeKeep	C'Thun	89
-1603661262	EP	Badazz-NethergardeKeep	C'Thun	89
-1603661262	EP	Harrak-NethergardeKeep	C'Thun	89
-1603661262	EP	Butterskotch-NethergardeKeep	C'Thun	89
-1603661262	EP	Ragehoof-NethergardeKeep	C'Thun	89
-1603661262	EP	Ophidium-NethergardeKeep	C'Thun	89
-1603661262	EP	Soulrider-NethergardeKeep	C'Thun	89
-1603661262	EP	Sameko-NethergardeKeep	C'Thun	89
-1603661262	EP	Kixom-NethergardeKeep	C'Thun	89
-1603661262	EP	Woof-NethergardeKeep	C'Thun	89
-1603661262	EP	Beefyclyro-NethergardeKeep	C'Thun	89
-1603661262	EP	Howzaa-NethergardeKeep	C'Thun	89
-1603661262	EP	Grothaal-NethergardeKeep	C'Thun	89
-1603661262	EP	Magina-NethergardeKeep	C'Thun	89
-1603661262	EP	Woosch-NethergardeKeep	C'Thun	89
-1603661262	EP	Zynn-NethergardeKeep	C'Thun	89
-1603661309	GP	Ravonix-NethergardeKeep	[Eye of C'Thun]	954	|cffa335ee|Hitem:21221::::::::60:::::::|h[Eye of C'Thun]|h|r
-1603661343	GP	Vinhuntz-NethergardeKeep	[Ring of the Godslayer]	954	|cffa335ee|Hitem:21596::::::::60:::::::|h[Ring of the Godslayer]|h|r
-1603661401	GP	Magina-NethergardeKeep	[Husk of the Old God]	1096	|cffa335ee|Hitem:20933::::::::60:::::::|h[Husk of the Old God]|h|r
-1603661449	GP	Vyagra-NethergardeKeep	[Grasp of the Old God]	1278	|cffa335ee|Hitem:21582::::::::60:::::::|h[Grasp of the Old God]|h|r
-1603661498	GP	Elfenjagd-NethergardeKeep	[Carapace of the Old God]	1096	|cffa335ee|Hitem:20929::::::::60:::::::|h[Carapace of the Old God]|h|r
-1603662333	EP	Vyagra-NethergardeKeep	AQ40 standby	712
-1603662345	EP	Jakko-NethergardeKeep	AQ40 standby	712
-1603662370	EP	Eedgi-NethergardeKeep	AQ40 standby	712
-1603912071	EP	Brainboi-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Malassezia-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Chandelly-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Rumbeer-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Urmel-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Kladiar-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Ichirga-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Seamara-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Enthrallis-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Tearless-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Umtiti-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Jakko-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Psolokrator-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Ggjustice-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Possumie-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Løntø-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Happyneal-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Koriah-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Iceolated-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Dirtyberty-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Coachtaylor-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Badazz-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Harrak-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Ravonix-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Butterskotch-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Ragehoof-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Vinhuntz-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Vyagra-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Ophidium-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Soulrider-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Elfenjagd-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Kixom-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Woof-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Beefyclyro-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Rophe-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Howzaa-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Grothaal-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Woosch-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Zynn-NethergardeKeep	Razorgore the Untamed	50
-1603912071	EP	Magina-NethergardeKeep	Razorgore the Untamed	50
-1603912246	EP	Brainboi-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Malassezia-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Chandelly-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Rumbeer-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Urmel-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Kladiar-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Ichirga-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Seamara-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Enthrallis-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Tearless-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Umtiti-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Jakko-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Psolokrator-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Ggjustice-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Possumie-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Løntø-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Happyneal-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Koriah-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Iceolated-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Dirtyberty-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Coachtaylor-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Badazz-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Harrak-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Ravonix-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Butterskotch-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Ragehoof-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Vinhuntz-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Vyagra-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Ophidium-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Soulrider-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Elfenjagd-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Kixom-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Woof-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Beefyclyro-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Rophe-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Howzaa-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Grothaal-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Woosch-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Zynn-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603912246	EP	Magina-NethergardeKeep	Vaelastrasz the Corrupt	50
-1603913189	EP	Brainboi-NethergardeKeep	small correction	-100
-1603913189	EP	Malassezia-NethergardeKeep	small correction	-100
-1603913189	EP	Chandelly-NethergardeKeep	small correction	-100
-1603913189	EP	Rumbeer-NethergardeKeep	small correction	-100
-1603913189	EP	Urmel-NethergardeKeep	small correction	-100
-1603913189	EP	Kladiar-NethergardeKeep	small correction	-100
-1603913189	EP	Ichirga-NethergardeKeep	small correction	-100
-1603913189	EP	Seamara-NethergardeKeep	small correction	-100
-1603913189	EP	Enthrallis-NethergardeKeep	small correction	-100
-1603913189	EP	Tearless-NethergardeKeep	small correction	-100
-1603913189	EP	Umtiti-NethergardeKeep	small correction	-100
-1603913189	EP	Jakko-NethergardeKeep	small correction	-100
-1603913189	EP	Psolokrator-NethergardeKeep	small correction	-100
-1603913189	EP	Ggjustice-NethergardeKeep	small correction	-100
-1603913189	EP	Possumie-NethergardeKeep	small correction	-100
-1603913189	EP	Løntø-NethergardeKeep	small correction	-100
-1603913189	EP	Happyneal-NethergardeKeep	small correction	-100
-1603913189	EP	Koriah-NethergardeKeep	small correction	-100
-1603913189	EP	Iceolated-NethergardeKeep	small correction	-100
-1603913189	EP	Dirtyberty-NethergardeKeep	small correction	-100
-1603913189	EP	Coachtaylor-NethergardeKeep	small correction	-100
-1603913189	EP	Badazz-NethergardeKeep	small correction	-100
-1603913189	EP	Harrak-NethergardeKeep	small correction	-100
-1603913189	EP	Ravonix-NethergardeKeep	small correction	-100
-1603913189	EP	Butterskotch-NethergardeKeep	small correction	-100
-1603913189	EP	Ragehoof-NethergardeKeep	small correction	-100
-1603913189	EP	Vinhuntz-NethergardeKeep	small correction	-100
-1603913189	EP	Vyagra-NethergardeKeep	small correction	-100
-1603913189	EP	Ophidium-NethergardeKeep	small correction	-100
-1603913189	EP	Soulrider-NethergardeKeep	small correction	-100
-1603913189	EP	Elfenjagd-NethergardeKeep	small correction	-100
-1603913189	EP	Kixom-NethergardeKeep	small correction	-100
-1603913189	EP	Beefyclyro-NethergardeKeep	small correction	-100
-1603913189	EP	Woof-NethergardeKeep	small correction	-100
-1603913189	EP	Rophe-NethergardeKeep	small correction	-100
-1603913189	EP	Howzaa-NethergardeKeep	small correction	-100
-1603913189	EP	Grothaal-NethergardeKeep	small correction	-100
-1603913189	EP	Woosch-NethergardeKeep	small correction	-100
-1603913189	EP	Zynn-NethergardeKeep	small correction	-100
-1603913189	EP	Magina-NethergardeKeep	small correction	-100
-1603913196	EP	Corlan-NethergardeKeep	Decay 7%	-35
-1603913196	GP	Corlan-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Urganvast-NethergardeKeep	Decay 7%	-35
-1603913196	GP	Urganvast-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Kleggolas-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Kleggolas-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Chandelly-NethergardeKeep	Decay 7%	-886
-1603913196	GP	Chandelly-NethergardeKeep	Decay 7%	-40
-1603913196	EP	Jakko-NethergardeKeep	Decay 7%	-836
-1603913196	GP	Jakko-NethergardeKeep	Decay 7%	-134
-1603913196	EP	Enthralling-NethergardeKeep	Decay 7%	-35
-1603913196	GP	Enthralling-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Happyneal-NethergardeKeep	Decay 7%	-908
-1603913196	GP	Happyneal-NethergardeKeep	Decay 7%	-197
-1603913196	EP	Exigus-NethergardeKeep	Decay 7%	-479
-1603913196	GP	Exigus-NethergardeKeep	Decay 7%	-48
-1603913196	EP	Tordis-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Tordis-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Lionard-NethergardeKeep	Decay 7%	-484
-1603913196	GP	Lionard-NethergardeKeep	Decay 7%	-133
-1603913196	EP	Perforator-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Perforator-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Banalrupture-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Banalrupture-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Runningbeer-NethergardeKeep	Decay 7%	-48
-1603913196	GP	Runningbeer-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Vinhuntz-NethergardeKeep	Decay 7%	-763
-1603913196	GP	Vinhuntz-NethergardeKeep	Decay 7%	-236
-1603913196	EP	Vazadice-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Vazadice-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Verto-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Verto-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Ravonix-NethergardeKeep	Decay 7%	-886
-1603913196	GP	Ravonix-NethergardeKeep	Decay 7%	-258
-1603913196	EP	Enthralled-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Enthralled-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Deadlyfang-NethergardeKeep	Decay 7%	-718
-1603913196	GP	Deadlyfang-NethergardeKeep	Decay 7%	-150
-1603913196	EP	Howzaa-NethergardeKeep	Decay 7%	-460
-1603913196	GP	Howzaa-NethergardeKeep	Decay 7%	-253
-1603913196	EP	Happybank-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Happybank-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Urmeldafatty-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Urmeldafatty-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Kiddo-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Dirtyberty-NethergardeKeep	Decay 7%	-337
-1603913196	GP	Dirtyberty-NethergardeKeep	Decay 7%	-81
-1603913196	EP	Chandrell-NethergardeKeep	Decay 7%	-35
-1603913196	GP	Chandrell-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Vazarcanus-NethergardeKeep	Decay 7%	-47
-1603913196	GP	Vazarcanus-NethergardeKeep	Decay 7%	-2469
-1603913196	EP	Iceolated-NethergardeKeep	Decay 7%	-832
-1603913196	GP	Iceolated-NethergardeKeep	Decay 7%	-196
-1603913196	EP	Butterskotch-NethergardeKeep	Decay 7%	-791
-1603913196	GP	Butterskotch-NethergardeKeep	Decay 7%	-231
-1603913196	EP	Eedgi-NethergardeKeep	Decay 7%	-734
-1603913196	GP	Eedgi-NethergardeKeep	Decay 7%	-118
-1603913196	EP	Brainboi-NethergardeKeep	Decay 7%	-884
-1603913196	GP	Brainboi-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Possuma-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Possuma-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Possumon-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Woosch-NethergardeKeep	Decay 7%	-262
-1603913196	GP	Woosch-NethergardeKeep	Decay 7%	-192
-1603913196	EP	Kladiar-NethergardeKeep	Decay 7%	-606
-1603913196	GP	Kladiar-NethergardeKeep	Decay 7%	-49
-1603913196	EP	Jakoo-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Jakoo-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Enthrallis-NethergardeKeep	Decay 7%	-909
-1603913196	GP	Enthrallis-NethergardeKeep	Decay 7%	-123
-1603913196	EP	Scorchnsoda-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Scorchnsoda-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Vinmax-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Vinmax-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Anuksanna-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Anuksanna-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Soulrider-NethergardeKeep	Decay 7%	-515
-1603913196	GP	Soulrider-NethergardeKeep	Decay 7%	-180
-1603913196	EP	Exid-NethergardeKeep	Decay 7%	-51
-1603913196	GP	Exid-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Arasmus-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Arasmus-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Ûrmel-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Ûrmel-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Ophidium-NethergardeKeep	Decay 7%	-823
-1603913196	GP	Ophidium-NethergardeKeep	Decay 7%	-262
-1603913196	EP	Klasik-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Klasik-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Badazz-NethergardeKeep	Decay 7%	-908
-1603913196	GP	Badazz-NethergardeKeep	Decay 7%	-256
-1603913196	EP	Beefyclyro-NethergardeKeep	Decay 7%	-477
-1603913196	GP	Beefyclyro-NethergardeKeep	Decay 7%	-202
-1603913196	EP	Koblajan-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Koblajan-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Relf-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Relf-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Psolo-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Psolo-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Ykcor-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Ykcor-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Løntø-NethergardeKeep	Decay 7%	-888
-1603913196	GP	Løntø-NethergardeKeep	Decay 7%	-173
-1603913196	EP	Seamara-NethergardeKeep	Decay 7%	-891
-1603913196	GP	Seamara-NethergardeKeep	Decay 7%	-107
-1603913196	EP	Ggjustice-NethergardeKeep	Decay 7%	-695
-1603913196	GP	Ggjustice-NethergardeKeep	Decay 7%	-129
-1603913196	EP	Grothaal-NethergardeKeep	Decay 7%	-448
-1603913196	GP	Grothaal-NethergardeKeep	Decay 7%	-262
-1603913196	EP	Rumbeer-NethergardeKeep	Decay 7%	-908
-1603913196	GP	Rumbeer-NethergardeKeep	Decay 7%	-57
-1603913196	EP	Harrak-NethergardeKeep	Decay 7%	-896
-1603913196	GP	Harrak-NethergardeKeep	Decay 7%	-256
-1603913196	EP	Brettkeane-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Brettkeane-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Nidhog-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Nidhog-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Vazaha-NethergardeKeep	Decay 7%	-38
-1603913196	GP	Vazaha-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Spookyskel-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Spookyskel-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Umtiti-NethergardeKeep	Decay 7%	-857
-1603913196	GP	Umtiti-NethergardeKeep	Decay 7%	-123
-1603913196	EP	Summonposs-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Summonposs-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Baddy-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Baddy-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Woof-NethergardeKeep	Decay 7%	-903
-1603913196	GP	Woof-NethergardeKeep	Decay 7%	-379
-1603913196	EP	Flowerskank-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Flowerskank-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Ichirga-NethergardeKeep	Decay 7%	-906
-1603913196	GP	Ichirga-NethergardeKeep	Decay 7%	-94
-1603913196	GP	Lonto-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Klass-NethergardeKeep	Decay 7%	-38
-1603913196	GP	Klass-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Urmel-NethergardeKeep	Decay 7%	-903
-1603913196	GP	Urmel-NethergardeKeep	Decay 7%	-71
-1603913196	EP	Astrall-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Astrall-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Isabich-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Isabich-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Sneezecheese-NethergardeKeep	Decay 7%	-288
-1603913196	GP	Sneezecheese-NethergardeKeep	Decay 7%	-59
-1603913196	EP	Sicknessary-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Sicknessary-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Yvonn-NethergardeKeep	Decay 7%	-53
-1603913196	GP	Yvonn-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Zynn-NethergardeKeep	Decay 7%	-337
-1603913196	GP	Zynn-NethergardeKeep	Decay 7%	-308
-1603913196	EP	Chandy-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Chandy-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Orccrush-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Orccrush-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Kixom-NethergardeKeep	Decay 7%	-729
-1603913196	GP	Kixom-NethergardeKeep	Decay 7%	-295
-1603913196	EP	Tsounlucky-NethergardeKeep	Decay 7%	-467
-1603913196	GP	Tsounlucky-NethergardeKeep	Decay 7%	-176
-1603913196	EP	Miezy-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Miezy-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Coachtaylor-NethergardeKeep	Decay 7%	-460
-1603913196	GP	Coachtaylor-NethergardeKeep	Decay 7%	-123
-1603913196	EP	Chandrina-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Chandrina-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Morjan-NethergardeKeep	Decay 7%	-255
-1603913196	GP	Morjan-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Warldor-NethergardeKeep	Decay 7%	-849
-1603913196	GP	Warldor-NethergardeKeep	Decay 7%	-220
-1603913196	EP	Magina-NethergardeKeep	Decay 7%	-215
-1603913196	GP	Magina-NethergardeKeep	Decay 7%	-232
-1603913196	EP	Ragehoof-NethergardeKeep	Decay 7%	-824
-1603913196	GP	Ragehoof-NethergardeKeep	Decay 7%	-252
-1603913196	EP	Grumpyneal-NethergardeKeep	Decay 7%	-70
-1603913196	EP	Rophe-NethergardeKeep	Decay 7%	-832
-1603913196	GP	Rophe-NethergardeKeep	Decay 7%	-373
-1603913196	EP	Vinpryx-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Vinpryx-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Elfenjagd-NethergardeKeep	Decay 7%	-445
-1603913196	GP	Elfenjagd-NethergardeKeep	Decay 7%	-175
-1603913196	EP	Frogg-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Frogg-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Malassezia-NethergardeKeep	Decay 7%	-869
-1603913196	GP	Malassezia-NethergardeKeep	Decay 7%	-37
-1603913196	EP	Tylvid-NethergardeKeep	Decay 7%	-479
-1603913196	GP	Tylvid-NethergardeKeep	Decay 7%	-204
-1603913196	EP	Tearless-NethergardeKeep	Decay 7%	-460
-1603913196	GP	Tearless-NethergardeKeep	Decay 7%	-65
-1603913196	EP	Vyagra-NethergardeKeep	Decay 7%	-898
-1603913196	GP	Vyagra-NethergardeKeep	Decay 7%	-282
-1603913196	EP	Paj-NethergardeKeep	Decay 7%	-289
-1603913196	GP	Paj-NethergardeKeep	Decay 7%	-146
-1603913196	EP	Strongcash-NethergardeKeep	Decay 7%	-34
-1603913196	GP	Strongcash-NethergardeKeep	Decay 7%	-34
-1603913196	EP	Koriah-NethergardeKeep	Decay 7%	-795
-1603913196	GP	Koriah-NethergardeKeep	Decay 7%	-174
-1603913196	EP	Sameko-NethergardeKeep	Decay 7%	-241
-1603913196	GP	Sameko-NethergardeKeep	Decay 7%	-89
-1603913196	EP	Psolokrator-NethergardeKeep	Decay 7%	-830
-1603913196	GP	Psolokrator-NethergardeKeep	Decay 7%	-150
-1603913196	EP	Possumo-NethergardeKeep	Decay 7%	-806
-1603913196	GP	Possumo-NethergardeKeep	Decay 7%	-154
-1603913196	EP	Tusa-NethergardeKeep	Decay 7%	-37
-1603913196	GP	Tusa-NethergardeKeep	Decay 7%	-37
-1603913206	EP	Brainboi-NethergardeKeep	small correction	100
-1603913206	EP	Malassezia-NethergardeKeep	small correction	100
-1603913206	EP	Chandelly-NethergardeKeep	small correction	100
-1603913206	EP	Rumbeer-NethergardeKeep	small correction	100
-1603913206	EP	Urmel-NethergardeKeep	small correction	100
-1603913206	EP	Kladiar-NethergardeKeep	small correction	100
-1603913206	EP	Ichirga-NethergardeKeep	small correction	100
-1603913206	EP	Seamara-NethergardeKeep	small correction	100
-1603913206	EP	Enthrallis-NethergardeKeep	small correction	100
-1603913206	EP	Tearless-NethergardeKeep	small correction	100
-1603913206	EP	Umtiti-NethergardeKeep	small correction	100
-1603913206	EP	Jakko-NethergardeKeep	small correction	100
-1603913206	EP	Psolokrator-NethergardeKeep	small correction	100
-1603913206	EP	Ggjustice-NethergardeKeep	small correction	100
-1603913206	EP	Possumie-NethergardeKeep	small correction	100
-1603913206	EP	Løntø-NethergardeKeep	small correction	100
-1603913206	EP	Happyneal-NethergardeKeep	small correction	100
-1603913206	EP	Koriah-NethergardeKeep	small correction	100
-1603913206	EP	Iceolated-NethergardeKeep	small correction	100
-1603913206	EP	Dirtyberty-NethergardeKeep	small correction	100
-1603913206	EP	Coachtaylor-NethergardeKeep	small correction	100
-1603913206	EP	Badazz-NethergardeKeep	small correction	100
-1603913206	EP	Harrak-NethergardeKeep	small correction	100
-1603913206	EP	Ravonix-NethergardeKeep	small correction	100
-1603913206	EP	Butterskotch-NethergardeKeep	small correction	100
-1603913206	EP	Ragehoof-NethergardeKeep	small correction	100
-1603913206	EP	Vinhuntz-NethergardeKeep	small correction	100
-1603913206	EP	Vyagra-NethergardeKeep	small correction	100
-1603913206	EP	Ophidium-NethergardeKeep	small correction	100
-1603913206	EP	Soulrider-NethergardeKeep	small correction	100
-1603913206	EP	Elfenjagd-NethergardeKeep	small correction	100
-1603913206	EP	Kixom-NethergardeKeep	small correction	100
-1603913206	EP	Woof-NethergardeKeep	small correction	100
-1603913206	EP	Beefyclyro-NethergardeKeep	small correction	100
-1603913206	EP	Rophe-NethergardeKeep	small correction	100
-1603913206	EP	Howzaa-NethergardeKeep	small correction	100
-1603913206	EP	Grothaal-NethergardeKeep	small correction	100
-1603913206	EP	Woosch-NethergardeKeep	small correction	100
-1603913206	EP	Zynn-NethergardeKeep	small correction	100
-1603913206	EP	Magina-NethergardeKeep	small correction	100
-1603914163	EP	Brainboi-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Malassezia-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Chandelly-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Rumbeer-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Urmel-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Kladiar-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Ichirga-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Seamara-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Enthrallis-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Tearless-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Umtiti-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Jakko-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Psolokrator-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Ggjustice-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Possumie-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Løntø-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Happyneal-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Koriah-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Iceolated-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Dirtyberty-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Coachtaylor-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Badazz-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Harrak-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Butterskotch-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Ravonix-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Ragehoof-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Vinhuntz-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Vyagra-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Ophidium-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Soulrider-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Elfenjagd-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Kixom-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Beefyclyro-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Woof-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Rophe-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Howzaa-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Grothaal-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Woosch-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Zynn-NethergardeKeep	Broodlord Lashlayer	50
-1603914163	EP	Magina-NethergardeKeep	Broodlord Lashlayer	50
-1603914542	EP	Brainboi-NethergardeKeep	Firemaw	50
-1603914542	EP	Malassezia-NethergardeKeep	Firemaw	50
-1603914542	EP	Chandelly-NethergardeKeep	Firemaw	50
-1603914542	EP	Rumbeer-NethergardeKeep	Firemaw	50
-1603914542	EP	Urmel-NethergardeKeep	Firemaw	50
-1603914542	EP	Kladiar-NethergardeKeep	Firemaw	50
-1603914542	EP	Ichirga-NethergardeKeep	Firemaw	50
-1603914542	EP	Seamara-NethergardeKeep	Firemaw	50
-1603914542	EP	Enthrallis-NethergardeKeep	Firemaw	50
-1603914542	EP	Tearless-NethergardeKeep	Firemaw	50
-1603914542	EP	Umtiti-NethergardeKeep	Firemaw	50
-1603914542	EP	Jakko-NethergardeKeep	Firemaw	50
-1603914542	EP	Psolokrator-NethergardeKeep	Firemaw	50
-1603914542	EP	Ggjustice-NethergardeKeep	Firemaw	50
-1603914542	EP	Possumie-NethergardeKeep	Firemaw	50
-1603914542	EP	Løntø-NethergardeKeep	Firemaw	50
-1603914542	EP	Happyneal-NethergardeKeep	Firemaw	50
-1603914542	EP	Koriah-NethergardeKeep	Firemaw	50
-1603914542	EP	Dirtyberty-NethergardeKeep	Firemaw	50
-1603914542	EP	Iceolated-NethergardeKeep	Firemaw	50
-1603914542	EP	Coachtaylor-NethergardeKeep	Firemaw	50
-1603914542	EP	Badazz-NethergardeKeep	Firemaw	50
-1603914542	EP	Harrak-NethergardeKeep	Firemaw	50
-1603914542	EP	Butterskotch-NethergardeKeep	Firemaw	50
-1603914542	EP	Ravonix-NethergardeKeep	Firemaw	50
-1603914542	EP	Ragehoof-NethergardeKeep	Firemaw	50
-1603914542	EP	Vinhuntz-NethergardeKeep	Firemaw	50
-1603914542	EP	Vyagra-NethergardeKeep	Firemaw	50
-1603914542	EP	Ophidium-NethergardeKeep	Firemaw	50
-1603914542	EP	Soulrider-NethergardeKeep	Firemaw	50
-1603914542	EP	Elfenjagd-NethergardeKeep	Firemaw	50
-1603914542	EP	Kixom-NethergardeKeep	Firemaw	50
-1603914542	EP	Beefyclyro-NethergardeKeep	Firemaw	50
-1603914542	EP	Woof-NethergardeKeep	Firemaw	50
-1603914542	EP	Rophe-NethergardeKeep	Firemaw	50
-1603914542	EP	Howzaa-NethergardeKeep	Firemaw	50
-1603914542	EP	Grothaal-NethergardeKeep	Firemaw	50
-1603914542	EP	Woosch-NethergardeKeep	Firemaw	50
-1603914542	EP	Zynn-NethergardeKeep	Firemaw	50
-1603914542	EP	Magina-NethergardeKeep	Firemaw	50
-1603915511	EP	Brainboi-NethergardeKeep	Ebonroc	50
-1603915511	EP	Malassezia-NethergardeKeep	Ebonroc	50
-1603915511	EP	Chandelly-NethergardeKeep	Ebonroc	50
-1603915511	EP	Rumbeer-NethergardeKeep	Ebonroc	50
-1603915511	EP	Urmel-NethergardeKeep	Ebonroc	50
-1603915511	EP	Kladiar-NethergardeKeep	Ebonroc	50
-1603915511	EP	Ichirga-NethergardeKeep	Ebonroc	50
-1603915511	EP	Seamara-NethergardeKeep	Ebonroc	50
-1603915511	EP	Enthrallis-NethergardeKeep	Ebonroc	50
-1603915511	EP	Tearless-NethergardeKeep	Ebonroc	50
-1603915511	EP	Umtiti-NethergardeKeep	Ebonroc	50
-1603915511	EP	Jakko-NethergardeKeep	Ebonroc	50
-1603915511	EP	Psolokrator-NethergardeKeep	Ebonroc	50
-1603915511	EP	Ggjustice-NethergardeKeep	Ebonroc	50
-1603915511	EP	Possumie-NethergardeKeep	Ebonroc	50
-1603915511	EP	Løntø-NethergardeKeep	Ebonroc	50
-1603915511	EP	Happyneal-NethergardeKeep	Ebonroc	50
-1603915511	EP	Koriah-NethergardeKeep	Ebonroc	50
-1603915511	EP	Dirtyberty-NethergardeKeep	Ebonroc	50
-1603915511	EP	Iceolated-NethergardeKeep	Ebonroc	50
-1603915511	EP	Coachtaylor-NethergardeKeep	Ebonroc	50
-1603915511	EP	Badazz-NethergardeKeep	Ebonroc	50
-1603915511	EP	Harrak-NethergardeKeep	Ebonroc	50
-1603915511	EP	Butterskotch-NethergardeKeep	Ebonroc	50
-1603915511	EP	Ravonix-NethergardeKeep	Ebonroc	50
-1603915511	EP	Ragehoof-NethergardeKeep	Ebonroc	50
-1603915511	EP	Vinhuntz-NethergardeKeep	Ebonroc	50
-1603915511	EP	Vyagra-NethergardeKeep	Ebonroc	50
-1603915511	EP	Ophidium-NethergardeKeep	Ebonroc	50
-1603915511	EP	Soulrider-NethergardeKeep	Ebonroc	50
-1603915511	EP	Elfenjagd-NethergardeKeep	Ebonroc	50
-1603915511	EP	Kixom-NethergardeKeep	Ebonroc	50
-1603915511	EP	Beefyclyro-NethergardeKeep	Ebonroc	50
-1603915511	EP	Woof-NethergardeKeep	Ebonroc	50
-1603915511	EP	Rophe-NethergardeKeep	Ebonroc	50
-1603915511	EP	Howzaa-NethergardeKeep	Ebonroc	50
-1603915511	EP	Grothaal-NethergardeKeep	Ebonroc	50
-1603915511	EP	Woosch-NethergardeKeep	Ebonroc	50
-1603915511	EP	Zynn-NethergardeKeep	Ebonroc	50
-1603915511	EP	Magina-NethergardeKeep	Ebonroc	50
-1603915636	EP	Brainboi-NethergardeKeep	Flamegor	50
-1603915636	EP	Malassezia-NethergardeKeep	Flamegor	50
-1603915636	EP	Chandelly-NethergardeKeep	Flamegor	50
-1603915636	EP	Rumbeer-NethergardeKeep	Flamegor	50
-1603915636	EP	Urmel-NethergardeKeep	Flamegor	50
-1603915636	EP	Kladiar-NethergardeKeep	Flamegor	50
-1603915636	EP	Ichirga-NethergardeKeep	Flamegor	50
-1603915636	EP	Seamara-NethergardeKeep	Flamegor	50
-1603915636	EP	Enthrallis-NethergardeKeep	Flamegor	50
-1603915636	EP	Tearless-NethergardeKeep	Flamegor	50
-1603915636	EP	Umtiti-NethergardeKeep	Flamegor	50
-1603915636	EP	Jakko-NethergardeKeep	Flamegor	50
-1603915636	EP	Psolokrator-NethergardeKeep	Flamegor	50
-1603915636	EP	Ggjustice-NethergardeKeep	Flamegor	50
-1603915636	EP	Possumie-NethergardeKeep	Flamegor	50
-1603915636	EP	Løntø-NethergardeKeep	Flamegor	50
-1603915636	EP	Happyneal-NethergardeKeep	Flamegor	50
-1603915636	EP	Koriah-NethergardeKeep	Flamegor	50
-1603915636	EP	Dirtyberty-NethergardeKeep	Flamegor	50
-1603915636	EP	Iceolated-NethergardeKeep	Flamegor	50
-1603915636	EP	Coachtaylor-NethergardeKeep	Flamegor	50
-1603915636	EP	Badazz-NethergardeKeep	Flamegor	50
-1603915636	EP	Harrak-NethergardeKeep	Flamegor	50
-1603915636	EP	Butterskotch-NethergardeKeep	Flamegor	50
-1603915636	EP	Ravonix-NethergardeKeep	Flamegor	50
-1603915636	EP	Ragehoof-NethergardeKeep	Flamegor	50
-1603915636	EP	Vinhuntz-NethergardeKeep	Flamegor	50
-1603915636	EP	Vyagra-NethergardeKeep	Flamegor	50
-1603915636	EP	Ophidium-NethergardeKeep	Flamegor	50
-1603915636	EP	Soulrider-NethergardeKeep	Flamegor	50
-1603915636	EP	Elfenjagd-NethergardeKeep	Flamegor	50
-1603915636	EP	Kixom-NethergardeKeep	Flamegor	50
-1603915636	EP	Beefyclyro-NethergardeKeep	Flamegor	50
-1603915636	EP	Woof-NethergardeKeep	Flamegor	50
-1603915636	EP	Rophe-NethergardeKeep	Flamegor	50
-1603915636	EP	Howzaa-NethergardeKeep	Flamegor	50
-1603915636	EP	Grothaal-NethergardeKeep	Flamegor	50
-1603915636	EP	Woosch-NethergardeKeep	Flamegor	50
-1603915636	EP	Zynn-NethergardeKeep	Flamegor	50
-1603915636	EP	Magina-NethergardeKeep	Flamegor	50
-1603916018	EP	Brainboi-NethergardeKeep	Chromaggus	50
-1603916018	EP	Malassezia-NethergardeKeep	Chromaggus	50
-1603916018	EP	Chandelly-NethergardeKeep	Chromaggus	50
-1603916018	EP	Rumbeer-NethergardeKeep	Chromaggus	50
-1603916018	EP	Urmel-NethergardeKeep	Chromaggus	50
-1603916018	EP	Kladiar-NethergardeKeep	Chromaggus	50
-1603916018	EP	Ichirga-NethergardeKeep	Chromaggus	50
-1603916018	EP	Seamara-NethergardeKeep	Chromaggus	50
-1603916018	EP	Enthrallis-NethergardeKeep	Chromaggus	50
-1603916018	EP	Tearless-NethergardeKeep	Chromaggus	50
-1603916018	EP	Umtiti-NethergardeKeep	Chromaggus	50
-1603916018	EP	Jakko-NethergardeKeep	Chromaggus	50
-1603916018	EP	Psolokrator-NethergardeKeep	Chromaggus	50
-1603916018	EP	Ggjustice-NethergardeKeep	Chromaggus	50
-1603916018	EP	Possumie-NethergardeKeep	Chromaggus	50
-1603916018	EP	Løntø-NethergardeKeep	Chromaggus	50
-1603916018	EP	Happyneal-NethergardeKeep	Chromaggus	50
-1603916018	EP	Koriah-NethergardeKeep	Chromaggus	50
-1603916018	EP	Dirtyberty-NethergardeKeep	Chromaggus	50
-1603916018	EP	Iceolated-NethergardeKeep	Chromaggus	50
-1603916018	EP	Coachtaylor-NethergardeKeep	Chromaggus	50
-1603916018	EP	Badazz-NethergardeKeep	Chromaggus	50
-1603916018	EP	Harrak-NethergardeKeep	Chromaggus	50
-1603916018	EP	Butterskotch-NethergardeKeep	Chromaggus	50
-1603916018	EP	Ravonix-NethergardeKeep	Chromaggus	50
-1603916018	EP	Ragehoof-NethergardeKeep	Chromaggus	50
-1603916018	EP	Vinhuntz-NethergardeKeep	Chromaggus	50
-1603916018	EP	Vyagra-NethergardeKeep	Chromaggus	50
-1603916018	EP	Ophidium-NethergardeKeep	Chromaggus	50
-1603916018	EP	Soulrider-NethergardeKeep	Chromaggus	50
-1603916018	EP	Elfenjagd-NethergardeKeep	Chromaggus	50
-1603916018	EP	Kixom-NethergardeKeep	Chromaggus	50
-1603916018	EP	Beefyclyro-NethergardeKeep	Chromaggus	50
-1603916018	EP	Woof-NethergardeKeep	Chromaggus	50
-1603916018	EP	Rophe-NethergardeKeep	Chromaggus	50
-1603916018	EP	Howzaa-NethergardeKeep	Chromaggus	50
-1603916018	EP	Grothaal-NethergardeKeep	Chromaggus	50
-1603916018	EP	Woosch-NethergardeKeep	Chromaggus	50
-1603916018	EP	Zynn-NethergardeKeep	Chromaggus	50
-1603916018	EP	Magina-NethergardeKeep	Chromaggus	50
-1603917902	EP	Brainboi-NethergardeKeep	Nefarian	50
-1603917902	EP	Malassezia-NethergardeKeep	Nefarian	50
-1603917902	EP	Chandelly-NethergardeKeep	Nefarian	50
-1603917902	EP	Rumbeer-NethergardeKeep	Nefarian	50
-1603917902	EP	Kladiar-NethergardeKeep	Nefarian	50
-1603917902	EP	Urmel-NethergardeKeep	Nefarian	50
-1603917902	EP	Ichirga-NethergardeKeep	Nefarian	50
-1603917902	EP	Seamara-NethergardeKeep	Nefarian	50
-1603917902	EP	Enthrallis-NethergardeKeep	Nefarian	50
-1603917902	EP	Tearless-NethergardeKeep	Nefarian	50
-1603917902	EP	Umtiti-NethergardeKeep	Nefarian	50
-1603917902	EP	Jakko-NethergardeKeep	Nefarian	50
-1603917902	EP	Psolokrator-NethergardeKeep	Nefarian	50
-1603917902	EP	Ggjustice-NethergardeKeep	Nefarian	50
-1603917902	EP	Possumie-NethergardeKeep	Nefarian	50
-1603917902	EP	Løntø-NethergardeKeep	Nefarian	50
-1603917902	EP	Happyneal-NethergardeKeep	Nefarian	50
-1603917902	EP	Koriah-NethergardeKeep	Nefarian	50
-1603917902	EP	Dirtyberty-NethergardeKeep	Nefarian	50
-1603917902	EP	Iceolated-NethergardeKeep	Nefarian	50
-1603917902	EP	Coachtaylor-NethergardeKeep	Nefarian	50
-1603917902	EP	Badazz-NethergardeKeep	Nefarian	50
-1603917902	EP	Harrak-NethergardeKeep	Nefarian	50
-1603917902	EP	Butterskotch-NethergardeKeep	Nefarian	50
-1603917902	EP	Ravonix-NethergardeKeep	Nefarian	50
-1603917902	EP	Ragehoof-NethergardeKeep	Nefarian	50
-1603917902	EP	Vinhuntz-NethergardeKeep	Nefarian	50
-1603917902	EP	Vyagra-NethergardeKeep	Nefarian	50
-1603917902	EP	Ophidium-NethergardeKeep	Nefarian	50
-1603917902	EP	Soulrider-NethergardeKeep	Nefarian	50
-1603917902	EP	Elfenjagd-NethergardeKeep	Nefarian	50
-1603917902	EP	Kixom-NethergardeKeep	Nefarian	50
-1603917902	EP	Beefyclyro-NethergardeKeep	Nefarian	50
-1603917902	EP	Woof-NethergardeKeep	Nefarian	50
-1603917902	EP	Rophe-NethergardeKeep	Nefarian	50
-1603917902	EP	Howzaa-NethergardeKeep	Nefarian	50
-1603917902	EP	Grothaal-NethergardeKeep	Nefarian	50
-1603917902	EP	Woosch-NethergardeKeep	Nefarian	50
-1603917902	EP	Zynn-NethergardeKeep	Nefarian	50
-1603917902	EP	Magina-NethergardeKeep	Nefarian	50
-1603918026	GP	Magina-NethergardeKeep	[Head of Nefarian]	696	|cffa335ee|Hitem:19002::::::::60:::::::|h[Head of Nefarian]|h|r
-1603918254	GP	Happyneal-NethergardeKeep	[Bloodfang Bracers]	224	|cffa335ee|Hitem:16911::::::::60:::::::|h[Bloodfang Bracers]|h|r
-1603918267	GP	Happyneal-NethergardeKeep	[Bloodfang Bracers]	-224	|cffa335ee|Hitem:16911::::::::60:::::::|h[Bloodfang Bracers]|h|r
-1603918273	GP	Umtiti-NethergardeKeep	[Bloodfang Bracers]	224	|cffa335ee|Hitem:16911::::::::60:::::::|h[Bloodfang Bracers]|h|r
-1603918318	GP	Magina-NethergardeKeep	[Netherwind Belt]	304	|cffa335ee|Hitem:16818::::::::60:::::::|h[Netherwind Belt]|h|r
-1603918473	GP	Koriah-NethergardeKeep	[Rejuvenating Gem]	939	|cffa335ee|Hitem:19395::::::::60:::::::|h[Rejuvenating Gem]|h|r
-1604253839	EP	Possumo-NethergardeKeep	reward	300
-1604253846	EP	Jakko-NethergardeKeep	reward	300
-1604254374	EP	Badazz-NethergardeKeep	skeram	89
-1604254374	EP	Beefyclyro-NethergardeKeep	skeram	89
-1604254374	EP	Brainboi-NethergardeKeep	skeram	89
-1604254374	EP	Butterskotch-NethergardeKeep	skeram	89
-1604254374	EP	Chandelly-NethergardeKeep	skeram	89
-1604254374	EP	Coachtaylor-NethergardeKeep	skeram	89
-1604254374	EP	Deadlyfang-NethergardeKeep	skeram	89
-1604254374	EP	Dirtyberty-NethergardeKeep	skeram	89
-1604254374	EP	Eedgi-NethergardeKeep	skeram	89
-1604254374	EP	Enthrallis-NethergardeKeep	skeram	89
-1604254374	EP	Grothaal-NethergardeKeep	skeram	89
-1604254374	EP	Happyneal-NethergardeKeep	skeram	89
-1604254374	EP	Harrak-NethergardeKeep	skeram	89
-1604254374	EP	Howzaa-NethergardeKeep	skeram	89
-1604254374	EP	Iceolated-NethergardeKeep	skeram	89
-1604254374	EP	Ichirga-NethergardeKeep	skeram	89
-1604254374	EP	Jakko-NethergardeKeep	skeram	89
-1604254374	EP	Kixom-NethergardeKeep	skeram	89
-1604254374	EP	Koriah-NethergardeKeep	skeram	89
-1604254374	EP	Løntø-NethergardeKeep	skeram	89
-1604254374	EP	Magina-NethergardeKeep	skeram	89
-1604254374	EP	Malassezia-NethergardeKeep	skeram	89
-1604254374	EP	Ophidium-NethergardeKeep	skeram	89
-1604254374	EP	Possumo-NethergardeKeep	skeram	89
-1604254374	EP	Psolokrator-NethergardeKeep	skeram	89
-1604254374	EP	Ragehoof-NethergardeKeep	skeram	89
-1604254374	EP	Ravonix-NethergardeKeep	skeram	89
-1604254374	EP	Rophe-NethergardeKeep	skeram	89
-1604254374	EP	Rumbeer-NethergardeKeep	skeram	89
-1604254374	EP	Seamara-NethergardeKeep	skeram	89
-1604254374	EP	Soulrider-NethergardeKeep	skeram	89
-1604254374	EP	Tearless-NethergardeKeep	skeram	89
-1604254374	EP	Umtiti-NethergardeKeep	skeram	89
-1604254374	EP	Urmel-NethergardeKeep	skeram	89
-1604254374	EP	Vinhuntz-NethergardeKeep	skeram	89
-1604254374	EP	Vyagra-NethergardeKeep	skeram	89
-1604254374	EP	Warldor-NethergardeKeep	skeram	89
-1604254374	EP	Woodlieman-NethergardeKeep	skeram	89
-1604254374	EP	Woof-NethergardeKeep	skeram	89
-1604254374	EP	Woosch-NethergardeKeep	skeram	89
-1604254776	EP	Badazz-NethergardeKeep	Bug Trio	89
-1604254776	EP	Beefyclyro-NethergardeKeep	Bug Trio	89
-1604254776	EP	Brainboi-NethergardeKeep	Bug Trio	89
-1604254776	EP	Butterskotch-NethergardeKeep	Bug Trio	89
-1604254776	EP	Chandelly-NethergardeKeep	Bug Trio	89
-1604254776	EP	Coachtaylor-NethergardeKeep	Bug Trio	89
-1604254776	EP	Deadlyfang-NethergardeKeep	Bug Trio	89
-1604254776	EP	Dirtyberty-NethergardeKeep	Bug Trio	89
-1604254776	EP	Eedgi-NethergardeKeep	Bug Trio	89
-1604254776	EP	Enthrallis-NethergardeKeep	Bug Trio	89
-1604254776	EP	Grothaal-NethergardeKeep	Bug Trio	89
-1604254776	EP	Happyneal-NethergardeKeep	Bug Trio	89
-1604254776	EP	Harrak-NethergardeKeep	Bug Trio	89
-1604254776	EP	Howzaa-NethergardeKeep	Bug Trio	89
-1604254776	EP	Iceolated-NethergardeKeep	Bug Trio	89
-1604254776	EP	Ichirga-NethergardeKeep	Bug Trio	89
-1604254776	EP	Jakko-NethergardeKeep	Bug Trio	89
-1604254776	EP	Kixom-NethergardeKeep	Bug Trio	89
-1604254776	EP	Koriah-NethergardeKeep	Bug Trio	89
-1604254776	EP	Løntø-NethergardeKeep	Bug Trio	89
-1604254776	EP	Magina-NethergardeKeep	Bug Trio	89
-1604254776	EP	Malassezia-NethergardeKeep	Bug Trio	89
-1604254776	EP	Ophidium-NethergardeKeep	Bug Trio	89
-1604254776	EP	Possumo-NethergardeKeep	Bug Trio	89
-1604254776	EP	Psolokrator-NethergardeKeep	Bug Trio	89
-1604254776	EP	Ragehoof-NethergardeKeep	Bug Trio	89
-1604254776	EP	Ravonix-NethergardeKeep	Bug Trio	89
-1604254776	EP	Rophe-NethergardeKeep	Bug Trio	89
-1604254776	EP	Rumbeer-NethergardeKeep	Bug Trio	89
-1604254776	EP	Seamara-NethergardeKeep	Bug Trio	89
-1604254776	EP	Soulrider-NethergardeKeep	Bug Trio	89
-1604254776	EP	Tearless-NethergardeKeep	Bug Trio	89
-1604254776	EP	Umtiti-NethergardeKeep	Bug Trio	89
-1604254776	EP	Urmel-NethergardeKeep	Bug Trio	89
-1604254776	EP	Vinhuntz-NethergardeKeep	Bug Trio	89
-1604254776	EP	Vyagra-NethergardeKeep	Bug Trio	89
-1604254776	EP	Warldor-NethergardeKeep	Bug Trio	89
-1604254776	EP	Woodlieman-NethergardeKeep	Bug Trio	89
-1604254776	EP	Woof-NethergardeKeep	Bug Trio	89
-1604254776	EP	Woosch-NethergardeKeep	Bug Trio	89
-1604255323	EP	Badazz-NethergardeKeep	Sartura	89
-1604255323	EP	Beefyclyro-NethergardeKeep	Sartura	89
-1604255323	EP	Brainboi-NethergardeKeep	Sartura	89
-1604255323	EP	Butterskotch-NethergardeKeep	Sartura	89
-1604255323	EP	Chandelly-NethergardeKeep	Sartura	89
-1604255323	EP	Coachtaylor-NethergardeKeep	Sartura	89
-1604255323	EP	Deadlyfang-NethergardeKeep	Sartura	89
-1604255323	EP	Dirtyberty-NethergardeKeep	Sartura	89
-1604255323	EP	Eedgi-NethergardeKeep	Sartura	89
-1604255323	EP	Enthrallis-NethergardeKeep	Sartura	89
-1604255323	EP	Grothaal-NethergardeKeep	Sartura	89
-1604255323	EP	Happyneal-NethergardeKeep	Sartura	89
-1604255323	EP	Harrak-NethergardeKeep	Sartura	89
-1604255323	EP	Howzaa-NethergardeKeep	Sartura	89
-1604255323	EP	Iceolated-NethergardeKeep	Sartura	89
-1604255323	EP	Ichirga-NethergardeKeep	Sartura	89
-1604255323	EP	Jakko-NethergardeKeep	Sartura	89
-1604255323	EP	Kixom-NethergardeKeep	Sartura	89
-1604255323	EP	Koriah-NethergardeKeep	Sartura	89
-1604255323	EP	Løntø-NethergardeKeep	Sartura	89
-1604255323	EP	Magina-NethergardeKeep	Sartura	89
-1604255323	EP	Malassezia-NethergardeKeep	Sartura	89
-1604255323	EP	Ophidium-NethergardeKeep	Sartura	89
-1604255323	EP	Possumo-NethergardeKeep	Sartura	89
-1604255323	EP	Psolokrator-NethergardeKeep	Sartura	89
-1604255323	EP	Ragehoof-NethergardeKeep	Sartura	89
-1604255323	EP	Ravonix-NethergardeKeep	Sartura	89
-1604255323	EP	Rophe-NethergardeKeep	Sartura	89
-1604255323	EP	Rumbeer-NethergardeKeep	Sartura	89
-1604255323	EP	Seamara-NethergardeKeep	Sartura	89
-1604255323	EP	Soulrider-NethergardeKeep	Sartura	89
-1604255323	EP	Tearless-NethergardeKeep	Sartura	89
-1604255323	EP	Umtiti-NethergardeKeep	Sartura	89
-1604255323	EP	Urmel-NethergardeKeep	Sartura	89
-1604255323	EP	Vinhuntz-NethergardeKeep	Sartura	89
-1604255323	EP	Vyagra-NethergardeKeep	Sartura	89
-1604255323	EP	Warldor-NethergardeKeep	Sartura	89
-1604255323	EP	Woodlieman-NethergardeKeep	Sartura	89
-1604255323	EP	Woof-NethergardeKeep	Sartura	89
-1604255323	EP	Woosch-NethergardeKeep	Sartura	89
-1604256766	GP	Woodlieman-NethergardeKeep	initial	1000
-1604256773	EP	Woodlieman-NethergardeKeep	initial	1000
-1604257044	EP	Badazz-NethergardeKeep	huhuran	89
-1604257044	EP	Beefyclyro-NethergardeKeep	huhuran	89
-1604257044	EP	Brainboi-NethergardeKeep	huhuran	89
-1604257044	EP	Butterskotch-NethergardeKeep	huhuran	89
-1604257044	EP	Chandelly-NethergardeKeep	huhuran	89
-1604257044	EP	Coachtaylor-NethergardeKeep	huhuran	89
-1604257044	EP	Deadlyfang-NethergardeKeep	huhuran	89
-1604257044	EP	Dirtyberty-NethergardeKeep	huhuran	89
-1604257044	EP	Eedgi-NethergardeKeep	huhuran	89
-1604257044	EP	Enthrallis-NethergardeKeep	huhuran	89
-1604257044	EP	Grothaal-NethergardeKeep	huhuran	89
-1604257044	EP	Happyneal-NethergardeKeep	huhuran	89
-1604257044	EP	Harrak-NethergardeKeep	huhuran	89
-1604257044	EP	Howzaa-NethergardeKeep	huhuran	89
-1604257044	EP	Iceolated-NethergardeKeep	huhuran	89
-1604257044	EP	Ichirga-NethergardeKeep	huhuran	89
-1604257044	EP	Jakko-NethergardeKeep	huhuran	89
-1604257044	EP	Kixom-NethergardeKeep	huhuran	89
-1604257044	EP	Koriah-NethergardeKeep	huhuran	89
-1604257044	EP	Løntø-NethergardeKeep	huhuran	89
-1604257044	EP	Magina-NethergardeKeep	huhuran	89
-1604257044	EP	Malassezia-NethergardeKeep	huhuran	89
-1604257044	EP	Ophidium-NethergardeKeep	huhuran	89
-1604257044	EP	Possumo-NethergardeKeep	huhuran	89
-1604257044	EP	Psolokrator-NethergardeKeep	huhuran	89
-1604257044	EP	Ragehoof-NethergardeKeep	huhuran	89
-1604257044	EP	Ravonix-NethergardeKeep	huhuran	89
-1604257044	EP	Rophe-NethergardeKeep	huhuran	89
-1604257044	EP	Rumbeer-NethergardeKeep	huhuran	89
-1604257044	EP	Seamara-NethergardeKeep	huhuran	89
-1604257044	EP	Soulrider-NethergardeKeep	huhuran	89
-1604257044	EP	Tearless-NethergardeKeep	huhuran	89
-1604257044	EP	Umtiti-NethergardeKeep	huhuran	89
-1604257044	EP	Urmel-NethergardeKeep	huhuran	89
-1604257044	EP	Vinhuntz-NethergardeKeep	huhuran	89
-1604257044	EP	Vyagra-NethergardeKeep	huhuran	89
-1604257044	EP	Warldor-NethergardeKeep	huhuran	89
-1604257044	EP	Woodlieman-NethergardeKeep	huhuran	89
-1604257044	EP	Woof-NethergardeKeep	huhuran	89
-1604257044	EP	Woosch-NethergardeKeep	huhuran	89
-1604258006	EP	Badazz-NethergardeKeep	twin emps	89
-1604258006	EP	Beefyclyro-NethergardeKeep	twin emps	89
-1604258006	EP	Brainboi-NethergardeKeep	twin emps	89
-1604258006	EP	Butterskotch-NethergardeKeep	twin emps	89
-1604258006	EP	Chandelly-NethergardeKeep	twin emps	89
-1604258006	EP	Coachtaylor-NethergardeKeep	twin emps	89
-1604258006	EP	Deadlyfang-NethergardeKeep	twin emps	89
-1604258006	EP	Dirtyberty-NethergardeKeep	twin emps	89
-1604258006	EP	Eedgi-NethergardeKeep	twin emps	89
-1604258006	EP	Enthrallis-NethergardeKeep	twin emps	89
-1604258006	EP	Grothaal-NethergardeKeep	twin emps	89
-1604258006	EP	Happyneal-NethergardeKeep	twin emps	89
-1604258006	EP	Harrak-NethergardeKeep	twin emps	89
-1604258006	EP	Howzaa-NethergardeKeep	twin emps	89
-1604258006	EP	Iceolated-NethergardeKeep	twin emps	89
-1604258006	EP	Ichirga-NethergardeKeep	twin emps	89
-1604258006	EP	Jakko-NethergardeKeep	twin emps	89
-1604258006	EP	Kixom-NethergardeKeep	twin emps	89
-1604258006	EP	Koriah-NethergardeKeep	twin emps	89
-1604258006	EP	Løntø-NethergardeKeep	twin emps	89
-1604258006	EP	Magina-NethergardeKeep	twin emps	89
-1604258006	EP	Malassezia-NethergardeKeep	twin emps	89
-1604258006	EP	Ophidium-NethergardeKeep	twin emps	89
-1604258006	EP	Possumo-NethergardeKeep	twin emps	89
-1604258006	EP	Psolokrator-NethergardeKeep	twin emps	89
-1604258006	EP	Ragehoof-NethergardeKeep	twin emps	89
-1604258006	EP	Ravonix-NethergardeKeep	twin emps	89
-1604258006	EP	Rophe-NethergardeKeep	twin emps	89
-1604258006	EP	Rumbeer-NethergardeKeep	twin emps	89
-1604258006	EP	Seamara-NethergardeKeep	twin emps	89
-1604258006	EP	Soulrider-NethergardeKeep	twin emps	89
-1604258006	EP	Tearless-NethergardeKeep	twin emps	89
-1604258006	EP	Umtiti-NethergardeKeep	twin emps	89
-1604258006	EP	Urmel-NethergardeKeep	twin emps	89
-1604258006	EP	Vinhuntz-NethergardeKeep	twin emps	89
-1604258006	EP	Vyagra-NethergardeKeep	twin emps	89
-1604258006	EP	Warldor-NethergardeKeep	twin emps	89
-1604258006	EP	Woodlieman-NethergardeKeep	twin emps	89
-1604258006	EP	Woof-NethergardeKeep	twin emps	89
-1604258006	EP	Woosch-NethergardeKeep	twin emps	89
-1604260349	EP	Badazz-NethergardeKeep	Ouro	89
-1604260349	EP	Beefyclyro-NethergardeKeep	Ouro	89
-1604260349	EP	Brainboi-NethergardeKeep	Ouro	89
-1604260349	EP	Butterskotch-NethergardeKeep	Ouro	89
-1604260349	EP	Chandelly-NethergardeKeep	Ouro	89
-1604260349	EP	Coachtaylor-NethergardeKeep	Ouro	89
-1604260349	EP	Deadlyfang-NethergardeKeep	Ouro	89
-1604260349	EP	Dirtyberty-NethergardeKeep	Ouro	89
-1604260349	EP	Eedgi-NethergardeKeep	Ouro	89
-1604260349	EP	Enthrallis-NethergardeKeep	Ouro	89
-1604260349	EP	Grothaal-NethergardeKeep	Ouro	89
-1604260349	EP	Happyneal-NethergardeKeep	Ouro	89
-1604260349	EP	Harrak-NethergardeKeep	Ouro	89
-1604260349	EP	Howzaa-NethergardeKeep	Ouro	89
-1604260349	EP	Iceolated-NethergardeKeep	Ouro	89
-1604260349	EP	Ichirga-NethergardeKeep	Ouro	89
-1604260349	EP	Jakko-NethergardeKeep	Ouro	89
-1604260349	EP	Kixom-NethergardeKeep	Ouro	89
-1604260349	EP	Koriah-NethergardeKeep	Ouro	89
-1604260349	EP	Løntø-NethergardeKeep	Ouro	89
-1604260349	EP	Magina-NethergardeKeep	Ouro	89
-1604260349	EP	Malassezia-NethergardeKeep	Ouro	89
-1604260349	EP	Ophidium-NethergardeKeep	Ouro	89
-1604260349	EP	Possumo-NethergardeKeep	Ouro	89
-1604260349	EP	Psolokrator-NethergardeKeep	Ouro	89
-1604260349	EP	Ragehoof-NethergardeKeep	Ouro	89
-1604260349	EP	Ravonix-NethergardeKeep	Ouro	89
-1604260349	EP	Rophe-NethergardeKeep	Ouro	89
-1604260349	EP	Rumbeer-NethergardeKeep	Ouro	89
-1604260349	EP	Seamara-NethergardeKeep	Ouro	89
-1604260349	EP	Soulrider-NethergardeKeep	Ouro	89
-1604260349	EP	Tearless-NethergardeKeep	Ouro	89
-1604260349	EP	Umtiti-NethergardeKeep	Ouro	89
-1604260349	EP	Urmel-NethergardeKeep	Ouro	89
-1604260349	EP	Vinhuntz-NethergardeKeep	Ouro	89
-1604260349	EP	Vyagra-NethergardeKeep	Ouro	89
-1604260349	EP	Warldor-NethergardeKeep	Ouro	89
-1604260349	EP	Woodlieman-NethergardeKeep	Ouro	89
-1604260349	EP	Woof-NethergardeKeep	Ouro	89
-1604260349	EP	Woosch-NethergardeKeep	Ouro	89
-1604262151	EP	Badazz-NethergardeKeep	C'Thun	89
-1604262151	EP	Beefyclyro-NethergardeKeep	C'Thun	89
-1604262151	EP	Brainboi-NethergardeKeep	C'Thun	89
-1604262151	EP	Butterskotch-NethergardeKeep	C'Thun	89
-1604262151	EP	Chandelly-NethergardeKeep	C'Thun	89
-1604262151	EP	Coachtaylor-NethergardeKeep	C'Thun	89
-1604262151	EP	Deadlyfang-NethergardeKeep	C'Thun	89
-1604262151	EP	Dirtyberty-NethergardeKeep	C'Thun	89
-1604262151	EP	Eedgi-NethergardeKeep	C'Thun	89
-1604262151	EP	Enthrallis-NethergardeKeep	C'Thun	89
-1604262151	EP	Grothaal-NethergardeKeep	C'Thun	89
-1604262151	EP	Happyneal-NethergardeKeep	C'Thun	89
-1604262151	EP	Harrak-NethergardeKeep	C'Thun	89
-1604262151	EP	Howzaa-NethergardeKeep	C'Thun	89
-1604262151	EP	Iceolated-NethergardeKeep	C'Thun	89
-1604262151	EP	Ichirga-NethergardeKeep	C'Thun	89
-1604262151	EP	Jakko-NethergardeKeep	C'Thun	89
-1604262151	EP	Kixom-NethergardeKeep	C'Thun	89
-1604262151	EP	Koriah-NethergardeKeep	C'Thun	89
-1604262151	EP	Løntø-NethergardeKeep	C'Thun	89
-1604262151	EP	Magina-NethergardeKeep	C'Thun	89
-1604262151	EP	Malassezia-NethergardeKeep	C'Thun	89
-1604262151	EP	Ophidium-NethergardeKeep	C'Thun	89
-1604262151	EP	Possumo-NethergardeKeep	C'Thun	89
-1604262151	EP	Psolokrator-NethergardeKeep	C'Thun	89
-1604262151	EP	Ragehoof-NethergardeKeep	C'Thun	89
-1604262151	EP	Ravonix-NethergardeKeep	C'Thun	89
-1604262151	EP	Rophe-NethergardeKeep	C'Thun	89
-1604262151	EP	Rumbeer-NethergardeKeep	C'Thun	89
-1604262151	EP	Seamara-NethergardeKeep	C'Thun	89
-1604262151	EP	Soulrider-NethergardeKeep	C'Thun	89
-1604262151	EP	Tearless-NethergardeKeep	C'Thun	89
-1604262151	EP	Umtiti-NethergardeKeep	C'Thun	89
-1604262151	EP	Urmel-NethergardeKeep	C'Thun	89
-1604262151	EP	Vinhuntz-NethergardeKeep	C'Thun	89
-1604262151	EP	Vyagra-NethergardeKeep	C'Thun	89
-1604262151	EP	Warldor-NethergardeKeep	C'Thun	89
-1604262151	EP	Woodlieman-NethergardeKeep	C'Thun	89
-1604262151	EP	Woof-NethergardeKeep	C'Thun	89
-1604262151	EP	Woosch-NethergardeKeep	C'Thun	89
-1604262319	GP	Warldor-NethergardeKeep	[Ring of the Qiraji Fury]	508	|cffa335ee|Hitem:21677::::::::60:::::::|h[Ring of the Qiraji Fury]|h|r
-1604262387	GP	Deadlyfang-NethergardeKeep	[Qiraji Bindings of Command]	681	|cffa335ee|Hitem:20928::::::::60:::::::|h[Qiraji Bindings of Command]|h|r
-1604262416	GP	Howzaa-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1604262422	GP	Magina-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
-1604262547	GP	Ragehoof-NethergardeKeep	[Vek'nilash's Circlet]	548	|cffa335ee|Hitem:20926::::::::60:::::::|h[Vek'nilash's Circlet]|h|r
-1604262580	GP	Woof-NethergardeKeep	[Gloves of the Hidden Temple]	822	|cffa335ee|Hitem:21605::::::::60:::::::|h[Gloves of the Hidden Temple]|h|r
-1604262685	GP	Woosch-NethergardeKeep	[Ouro's Intact Hide]	1096	|cffa335ee|Hitem:20927::::::::60:::::::|h[Ouro's Intact Hide]|h|r
-1604262719	GP	Butterskotch-NethergardeKeep	[Don Rigoberto's Lost Hat]	1096	|cffa335ee|Hitem:21615::::::::60:::::::|h[Don Rigoberto's Lost Hat]|h|r
-1604262769	GP	Deadlyfang-NethergardeKeep	[Carapace of the Old God]	1096	|cffa335ee|Hitem:20929::::::::60:::::::|h[Carapace of the Old God]|h|r
-1604262799	GP	Soulrider-NethergardeKeep	[Husk of the Old God]	548	|cffa335ee|Hitem:20933::::::::60:::::::|h[Husk of the Old God]|h|r
-1604262821	GP	Dirtyberty-NethergardeKeep	[Eye of C'Thun]	954	|cffa335ee|Hitem:21221::::::::60:::::::|h[Eye of C'Thun]|h|r
-1604262844	GP	Løntø-NethergardeKeep	[Belt of Never-ending Agony]	1278	|cffa335ee|Hitem:21586::::::::60:::::::|h[Belt of Never-ending Agony]|h|r
-1604262874	GP	Koriah-NethergardeKeep	[Cloak of Clarity]	954	|cffa335ee|Hitem:21583::::::::60:::::::|h[Cloak of Clarity]|h|r
-1604270316	EP	Ggjustice-NethergardeKeep	AQ40 standby	801
-1604270328	EP	Sneezecheese-NethergardeKeep	AQ40 standby	801
-1604270337	EP	Zynn-NethergardeKeep	AQ40 standby	801
-1604270377	GP	Butterskotch-NethergardeKeep	[Don Rigoberto's Lost Hat]	-1096	|cffa335ee|Hitem:21615::::::::60:::::::|h[Don Rigoberto's Lost Hat]|h|r
-1604270388	GP	Ophidium-NethergardeKeep	[Don Rigoberto's Lost Hat]	1096	|cffa335ee|Hitem:21615::::::::60:::::::|h[Don Rigoberto's Lost Hat]|h|r
 1604350684	EP	Zamaj-NethergardeKeep	initial	1000
 1604350693	GP	Zamaj-NethergardeKeep	initial	1000
 1604510625	EP	Chandy-NethergardeKeep	Decay 7%	-34
@@ -3937,3 +2644,854 @@ Psolokrator-NethergardeKeep	12673	1599	WARRIOR
 1606080499	GP	Chandelly-NethergardeKeep	[Blessed Qiraji War Hammer]	966	|cffa335ee|Hitem:21268::::::::60:::::::|h[Blessed Qiraji War Hammer]|h|r
 1606080716	GP	Woof-NethergardeKeep	[Imperial Qiraji Regalia]	-1933	|cffa335ee|Hitem:21237::::::::60:::::::|h[Imperial Qiraji Regalia]|h|r
 1606080723	GP	Woof-NethergardeKeep	[Blessed Qiraji War Hammer]	966	|cffa335ee|Hitem:21268::::::::60:::::::|h[Blessed Qiraji War Hammer]|h|r
+1606296848	EP	Chandy-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Chandy-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Chandrina-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Chandrina-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Urganvast-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Urganvast-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Kleggolas-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Kleggolas-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Chandelly-NethergardeKeep	Decay 7%	-939
+1606296848	GP	Chandelly-NethergardeKeep	Decay 7%	-190
+1606296848	EP	Jakko-NethergardeKeep	Decay 7%	-936
+1606296848	GP	Jakko-NethergardeKeep	Decay 7%	-131
+1606296848	EP	Tearless-NethergardeKeep	Decay 7%	-637
+1606296848	GP	Tearless-NethergardeKeep	Decay 7%	-160
+1606296848	EP	Exigus-NethergardeKeep	Decay 7%	-358
+1606296848	GP	Exigus-NethergardeKeep	Decay 7%	-36
+1606296848	EP	Kaktussen-NethergardeKeep	Decay 7%	-152
+1606296848	GP	Kaktussen-NethergardeKeep	Decay 7%	-53
+1606296848	EP	Perforator-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Perforator-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Banalrupture-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Banalrupture-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Vinhuntz-NethergardeKeep	Decay 7%	-815
+1606296848	GP	Vinhuntz-NethergardeKeep	Decay 7%	-177
+1606296848	EP	Vazadice-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Vazadice-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Ravonix-NethergardeKeep	Decay 7%	-956
+1606296848	GP	Ravonix-NethergardeKeep	Decay 7%	-193
+1606296848	EP	Summonposs-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Summonposs-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Deadlyfang-NethergardeKeep	Decay 7%	-730
+1606296848	GP	Deadlyfang-NethergardeKeep	Decay 7%	-233
+1606296848	EP	Howzaa-NethergardeKeep	Decay 7%	-624
+1606296848	GP	Howzaa-NethergardeKeep	Decay 7%	-313
+1606296848	EP	Zamaj-NethergardeKeep	Decay 7%	-292
+1606296848	GP	Zamaj-NethergardeKeep	Decay 7%	-119
+1606296848	EP	Happybank-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Happybank-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Urmeldafatty-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Urmeldafatty-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Kiddo-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Chandrell-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Chandrell-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Vazarcanus-NethergardeKeep	Decay 7%	-35
+1606296848	GP	Vazarcanus-NethergardeKeep	Decay 7%	-1847
+1606296848	EP	Iceolated-NethergardeKeep	Decay 7%	-867
+1606296848	GP	Iceolated-NethergardeKeep	Decay 7%	-147
+1606296848	EP	Tdshogun-NethergardeKeep	Decay 7%	-885
+1606296848	GP	Tdshogun-NethergardeKeep	Decay 7%	-384
+1606296848	EP	Eedgi-NethergardeKeep	Decay 7%	-819
+1606296848	GP	Eedgi-NethergardeKeep	Decay 7%	-154
+1606296848	EP	Baddy-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Baddy-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Psolokrator-NethergardeKeep	Decay 7%	-888
+1606296848	GP	Psolokrator-NethergardeKeep	Decay 7%	-112
+1606296848	GP	Possumon-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Woosch-NethergardeKeep	Decay 7%	-489
+1606296848	GP	Woosch-NethergardeKeep	Decay 7%	-205
+1606296848	EP	Kladiar-NethergardeKeep	Decay 7%	-532
+1606296848	GP	Kladiar-NethergardeKeep	Decay 7%	-100
+1606296848	EP	Corpsechan-NethergardeKeep	Decay 7%	-272
+1606296848	GP	Corpsechan-NethergardeKeep	Decay 7%	-82
+1606296848	EP	Jakoo-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Jakoo-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Enthrallis-NethergardeKeep	Decay 7%	-973
+1606296848	GP	Enthrallis-NethergardeKeep	Decay 7%	-92
+1606296848	EP	Scorchnsoda-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Scorchnsoda-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Sneezecheese-NethergardeKeep	Decay 7%	-417
+1606296848	GP	Sneezecheese-NethergardeKeep	Decay 7%	-125
+1606296848	EP	Vinmax-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Vinmax-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Yvonn-NethergardeKeep	Decay 7%	-40
+1606296848	GP	Yvonn-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Soulrider-NethergardeKeep	Decay 7%	-576
+1606296848	GP	Soulrider-NethergardeKeep	Decay 7%	-186
+1606296848	EP	Arasmus-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Arasmus-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Ûrmel-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Ûrmel-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Ophidium-NethergardeKeep	Decay 7%	-909
+1606296848	GP	Ophidium-NethergardeKeep	Decay 7%	-257
+1606296848	EP	Badazz-NethergardeKeep	Decay 7%	-972
+1606296848	GP	Badazz-NethergardeKeep	Decay 7%	-232
+1606296848	EP	Beefyclyro-NethergardeKeep	Decay 7%	-650
+1606296848	GP	Beefyclyro-NethergardeKeep	Decay 7%	-205
+1606296848	EP	Koblajan-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Koblajan-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Relf-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Relf-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Rophe-NethergardeKeep	Decay 7%	-781
+1606296848	GP	Rophe-NethergardeKeep	Decay 7%	-279
+1606296848	EP	Kojaevel-NethergardeKeep	Decay 7%	-272
+1606296848	GP	Kojaevel-NethergardeKeep	Decay 7%	-61
+1606296848	EP	Psolo-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Psolo-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Seamara-NethergardeKeep	Decay 7%	-960
+1606296848	GP	Seamara-NethergardeKeep	Decay 7%	-80
+1606296848	EP	Ggjustice-NethergardeKeep	Decay 7%	-773
+1606296848	GP	Ggjustice-NethergardeKeep	Decay 7%	-269
+1606296848	EP	Grothaal-NethergardeKeep	Decay 7%	-566
+1606296848	GP	Grothaal-NethergardeKeep	Decay 7%	-196
+1606296848	EP	Rumbeer-NethergardeKeep	Decay 7%	-971
+1606296848	GP	Rumbeer-NethergardeKeep	Decay 7%	-102
+1606296848	EP	Harrak-NethergardeKeep	Decay 7%	-935
+1606296848	GP	Harrak-NethergardeKeep	Decay 7%	-389
+1606296848	EP	Astrall-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Astrall-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Nidhog-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Nidhog-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Vazaha-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Vazaha-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Spookyskel-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Spookyskel-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Umtiti-NethergardeKeep	Decay 7%	-906
+1606296848	GP	Umtiti-NethergardeKeep	Decay 7%	-129
+1606296848	GP	Lonto-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Koriah-NethergardeKeep	Decay 7%	-824
+1606296848	GP	Koriah-NethergardeKeep	Decay 7%	-303
+1606296848	EP	Flowerskank-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Flowerskank-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Ichirga-NethergardeKeep	Decay 7%	-971
+1606296848	GP	Ichirga-NethergardeKeep	Decay 7%	-147
+1606296848	EP	Tylvid-NethergardeKeep	Decay 7%	-358
+1606296848	GP	Tylvid-NethergardeKeep	Decay 7%	-152
+1606296848	EP	Klass-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Klass-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Urmel-NethergardeKeep	Decay 7%	-968
+1606296848	GP	Urmel-NethergardeKeep	Decay 7%	-81
+1606296848	EP	Possumo-NethergardeKeep	Decay 7%	-913
+1606296848	GP	Possumo-NethergardeKeep	Decay 7%	-115
+1606296848	EP	Isabich-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Isabich-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Verto-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Verto-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Tordis-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Tordis-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Woof-NethergardeKeep	Decay 7%	-969
+1606296848	GP	Woof-NethergardeKeep	Decay 7%	-262
+1606296848	EP	Strongcash-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Strongcash-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Malassezia-NethergardeKeep	Decay 7%	-943
+1606296848	GP	Malassezia-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Anuksanna-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Anuksanna-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Brainboi-NethergardeKeep	Decay 7%	-955
+1606296848	GP	Brainboi-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Miezy-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Miezy-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Coachtaylor-NethergardeKeep	Decay 7%	-609
+1606296848	GP	Coachtaylor-NethergardeKeep	Decay 7%	-227
+1606296848	EP	Kixom-NethergardeKeep	Decay 7%	-730
+1606296848	GP	Kixom-NethergardeKeep	Decay 7%	-315
+1606296848	EP	Morjan-NethergardeKeep	Decay 7%	-191
+1606296848	GP	Morjan-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Magicali-NethergardeKeep	Decay 7%	-155
+1606296848	GP	Magicali-NethergardeKeep	Decay 7%	-147
+1606296848	EP	Ragehoof-NethergardeKeep	Decay 7%	-854
+1606296848	GP	Ragehoof-NethergardeKeep	Decay 7%	-330
+1606296848	EP	Klasik-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Klasik-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Grumpyneal-NethergardeKeep	Decay 7%	-53
+1606296848	EP	Dirtyberty-NethergardeKeep	Decay 7%	-545
+1606296848	GP	Dirtyberty-NethergardeKeep	Decay 7%	-325
+1606296848	EP	Elfenjagd-NethergardeKeep	Decay 7%	-539
+1606296848	GP	Elfenjagd-NethergardeKeep	Decay 7%	-221
+1606296848	EP	Happyneal-NethergardeKeep	Decay 7%	-972
+1606296848	GP	Happyneal-NethergardeKeep	Decay 7%	-230
+1606296848	EP	Løntø-NethergardeKeep	Decay 7%	-956
+1606296848	GP	Løntø-NethergardeKeep	Decay 7%	-239
+1606296848	EP	Woodlieman-NethergardeKeep	Decay 7%	-327
+1606296848	GP	Woodlieman-NethergardeKeep	Decay 7%	-123
+1606296848	EP	Vinpryx-NethergardeKeep	Decay 7%	-26
+1606296848	GP	Vinpryx-NethergardeKeep	Decay 7%	-26
+1606296848	EP	Vyagra-NethergardeKeep	Decay 7%	-965
+1606296848	GP	Vyagra-NethergardeKeep	Decay 7%	-245
+1606296848	EP	Orccrush-NethergardeKeep	Decay 7%	-28
+1606296848	GP	Orccrush-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Pift-NethergardeKeep	Decay 7%	-87
+1606296848	GP	Pift-NethergardeKeep	Decay 7%	-61
+1606296848	EP	Sameko-NethergardeKeep	Decay 7%	-416
+1606296848	GP	Sameko-NethergardeKeep	Decay 7%	-205
+1606296848	EP	Zynn-NethergardeKeep	Decay 7%	-555
+1606296848	GP	Zynn-NethergardeKeep	Decay 7%	-231
+1606296848	EP	Possuma-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Possuma-NethergardeKeep	Decay 7%	-27
+1606296848	EP	Frogg-NethergardeKeep	Decay 7%	-27
+1606296848	GP	Frogg-NethergardeKeep	Decay 7%	-27
+1606331331	EP	Brainboi-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Malassezia-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Seamara-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Urmel-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Enthrallis-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Rumbeer-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Possumo-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Psolokrator-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Jakko-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Umtiti-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Ichirga-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Iceolated-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Kladiar-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Eedgi-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Ravonix-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Chandelly-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Vinhuntz-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Kojaevel-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Happyneal-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Badazz-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Tearless-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Vyagra-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Woof-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Ophidium-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Corpsechan-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Beefyclyro-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Soulrider-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Coachtaylor-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Woodlieman-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Ragehoof-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Zamaj-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Elfenjagd-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Zynn-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Woosch-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Kixom-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Tdshogun-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Howzaa-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Dirtyberty-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Magicali-NethergardeKeep	Razorgore the Untamed	50
+1606331331	EP	Icetomeetyou-NethergardeKeep	Razorgore the Untamed	50
+1606331508	EP	Brainboi-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Malassezia-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Seamara-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Urmel-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Enthrallis-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Rumbeer-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Possumo-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Psolokrator-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Jakko-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Umtiti-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Ichirga-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Iceolated-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Kladiar-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Eedgi-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Ravonix-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Chandelly-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Vinhuntz-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Kojaevel-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Happyneal-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Badazz-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Tearless-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Vyagra-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Woof-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Ophidium-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Corpsechan-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Beefyclyro-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Soulrider-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Coachtaylor-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Woodlieman-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Ragehoof-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Zamaj-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Elfenjagd-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Zynn-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Woosch-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Kixom-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Tdshogun-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Howzaa-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Dirtyberty-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Magicali-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606331508	EP	Icetomeetyou-NethergardeKeep	Vaelastrasz the Corrupt	50
+1606332061	EP	Brainboi-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Malassezia-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Seamara-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Urmel-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Enthrallis-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Rumbeer-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Possumo-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Psolokrator-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Jakko-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Umtiti-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Ichirga-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Iceolated-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Kladiar-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Eedgi-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Ravonix-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Chandelly-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Vinhuntz-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Kojaevel-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Happyneal-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Badazz-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Tearless-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Vyagra-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Woof-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Ophidium-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Corpsechan-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Beefyclyro-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Soulrider-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Woodlieman-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Coachtaylor-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Ragehoof-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Zamaj-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Elfenjagd-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Zynn-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Woosch-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Kixom-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Tdshogun-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Howzaa-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Dirtyberty-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Magicali-NethergardeKeep	Broodlord Lashlayer	50
+1606332061	EP	Icetomeetyou-NethergardeKeep	Broodlord Lashlayer	50
+1606332353	EP	Brainboi-NethergardeKeep	Firemaw	50
+1606332353	EP	Malassezia-NethergardeKeep	Firemaw	50
+1606332353	EP	Seamara-NethergardeKeep	Firemaw	50
+1606332353	EP	Urmel-NethergardeKeep	Firemaw	50
+1606332353	EP	Enthrallis-NethergardeKeep	Firemaw	50
+1606332353	EP	Rumbeer-NethergardeKeep	Firemaw	50
+1606332353	EP	Possumo-NethergardeKeep	Firemaw	50
+1606332353	EP	Psolokrator-NethergardeKeep	Firemaw	50
+1606332353	EP	Jakko-NethergardeKeep	Firemaw	50
+1606332353	EP	Umtiti-NethergardeKeep	Firemaw	50
+1606332353	EP	Ichirga-NethergardeKeep	Firemaw	50
+1606332353	EP	Iceolated-NethergardeKeep	Firemaw	50
+1606332353	EP	Kladiar-NethergardeKeep	Firemaw	50
+1606332353	EP	Eedgi-NethergardeKeep	Firemaw	50
+1606332353	EP	Ravonix-NethergardeKeep	Firemaw	50
+1606332353	EP	Chandelly-NethergardeKeep	Firemaw	50
+1606332353	EP	Vinhuntz-NethergardeKeep	Firemaw	50
+1606332353	EP	Kojaevel-NethergardeKeep	Firemaw	50
+1606332353	EP	Happyneal-NethergardeKeep	Firemaw	50
+1606332353	EP	Badazz-NethergardeKeep	Firemaw	50
+1606332353	EP	Tearless-NethergardeKeep	Firemaw	50
+1606332353	EP	Vyagra-NethergardeKeep	Firemaw	50
+1606332353	EP	Woof-NethergardeKeep	Firemaw	50
+1606332353	EP	Ophidium-NethergardeKeep	Firemaw	50
+1606332353	EP	Corpsechan-NethergardeKeep	Firemaw	50
+1606332353	EP	Beefyclyro-NethergardeKeep	Firemaw	50
+1606332353	EP	Soulrider-NethergardeKeep	Firemaw	50
+1606332353	EP	Woodlieman-NethergardeKeep	Firemaw	50
+1606332353	EP	Coachtaylor-NethergardeKeep	Firemaw	50
+1606332353	EP	Ragehoof-NethergardeKeep	Firemaw	50
+1606332353	EP	Zamaj-NethergardeKeep	Firemaw	50
+1606332353	EP	Elfenjagd-NethergardeKeep	Firemaw	50
+1606332353	EP	Zynn-NethergardeKeep	Firemaw	50
+1606332353	EP	Woosch-NethergardeKeep	Firemaw	50
+1606332353	EP	Kixom-NethergardeKeep	Firemaw	50
+1606332353	EP	Tdshogun-NethergardeKeep	Firemaw	50
+1606332353	EP	Howzaa-NethergardeKeep	Firemaw	50
+1606332353	EP	Dirtyberty-NethergardeKeep	Firemaw	50
+1606332353	EP	Magicali-NethergardeKeep	Firemaw	50
+1606332353	EP	Icetomeetyou-NethergardeKeep	Firemaw	50
+1606333017	EP	Brainboi-NethergardeKeep	Ebonroc	50
+1606333017	EP	Malassezia-NethergardeKeep	Ebonroc	50
+1606333017	EP	Seamara-NethergardeKeep	Ebonroc	50
+1606333017	EP	Urmel-NethergardeKeep	Ebonroc	50
+1606333017	EP	Enthrallis-NethergardeKeep	Ebonroc	50
+1606333017	EP	Rumbeer-NethergardeKeep	Ebonroc	50
+1606333017	EP	Possumo-NethergardeKeep	Ebonroc	50
+1606333017	EP	Psolokrator-NethergardeKeep	Ebonroc	50
+1606333017	EP	Jakko-NethergardeKeep	Ebonroc	50
+1606333017	EP	Umtiti-NethergardeKeep	Ebonroc	50
+1606333017	EP	Ichirga-NethergardeKeep	Ebonroc	50
+1606333017	EP	Iceolated-NethergardeKeep	Ebonroc	50
+1606333017	EP	Kladiar-NethergardeKeep	Ebonroc	50
+1606333017	EP	Eedgi-NethergardeKeep	Ebonroc	50
+1606333017	EP	Ravonix-NethergardeKeep	Ebonroc	50
+1606333017	EP	Chandelly-NethergardeKeep	Ebonroc	50
+1606333017	EP	Kojaevel-NethergardeKeep	Ebonroc	50
+1606333017	EP	Vinhuntz-NethergardeKeep	Ebonroc	50
+1606333017	EP	Happyneal-NethergardeKeep	Ebonroc	50
+1606333017	EP	Badazz-NethergardeKeep	Ebonroc	50
+1606333017	EP	Tearless-NethergardeKeep	Ebonroc	50
+1606333017	EP	Vyagra-NethergardeKeep	Ebonroc	50
+1606333017	EP	Woof-NethergardeKeep	Ebonroc	50
+1606333017	EP	Ophidium-NethergardeKeep	Ebonroc	50
+1606333017	EP	Corpsechan-NethergardeKeep	Ebonroc	50
+1606333017	EP	Beefyclyro-NethergardeKeep	Ebonroc	50
+1606333017	EP	Soulrider-NethergardeKeep	Ebonroc	50
+1606333017	EP	Woodlieman-NethergardeKeep	Ebonroc	50
+1606333017	EP	Coachtaylor-NethergardeKeep	Ebonroc	50
+1606333017	EP	Ragehoof-NethergardeKeep	Ebonroc	50
+1606333017	EP	Zamaj-NethergardeKeep	Ebonroc	50
+1606333017	EP	Elfenjagd-NethergardeKeep	Ebonroc	50
+1606333017	EP	Zynn-NethergardeKeep	Ebonroc	50
+1606333017	EP	Woosch-NethergardeKeep	Ebonroc	50
+1606333017	EP	Kixom-NethergardeKeep	Ebonroc	50
+1606333017	EP	Tdshogun-NethergardeKeep	Ebonroc	50
+1606333017	EP	Howzaa-NethergardeKeep	Ebonroc	50
+1606333017	EP	Dirtyberty-NethergardeKeep	Ebonroc	50
+1606333017	EP	Magicali-NethergardeKeep	Ebonroc	50
+1606333017	EP	Icetomeetyou-NethergardeKeep	Ebonroc	50
+1606333107	EP	Brainboi-NethergardeKeep	Flamegor	50
+1606333107	EP	Malassezia-NethergardeKeep	Flamegor	50
+1606333107	EP	Seamara-NethergardeKeep	Flamegor	50
+1606333107	EP	Urmel-NethergardeKeep	Flamegor	50
+1606333107	EP	Enthrallis-NethergardeKeep	Flamegor	50
+1606333107	EP	Rumbeer-NethergardeKeep	Flamegor	50
+1606333107	EP	Possumo-NethergardeKeep	Flamegor	50
+1606333107	EP	Psolokrator-NethergardeKeep	Flamegor	50
+1606333107	EP	Jakko-NethergardeKeep	Flamegor	50
+1606333107	EP	Umtiti-NethergardeKeep	Flamegor	50
+1606333107	EP	Ichirga-NethergardeKeep	Flamegor	50
+1606333107	EP	Iceolated-NethergardeKeep	Flamegor	50
+1606333107	EP	Kladiar-NethergardeKeep	Flamegor	50
+1606333107	EP	Eedgi-NethergardeKeep	Flamegor	50
+1606333107	EP	Ravonix-NethergardeKeep	Flamegor	50
+1606333107	EP	Chandelly-NethergardeKeep	Flamegor	50
+1606333107	EP	Kojaevel-NethergardeKeep	Flamegor	50
+1606333107	EP	Vinhuntz-NethergardeKeep	Flamegor	50
+1606333107	EP	Happyneal-NethergardeKeep	Flamegor	50
+1606333107	EP	Badazz-NethergardeKeep	Flamegor	50
+1606333107	EP	Tearless-NethergardeKeep	Flamegor	50
+1606333107	EP	Vyagra-NethergardeKeep	Flamegor	50
+1606333107	EP	Woof-NethergardeKeep	Flamegor	50
+1606333107	EP	Ophidium-NethergardeKeep	Flamegor	50
+1606333107	EP	Corpsechan-NethergardeKeep	Flamegor	50
+1606333107	EP	Beefyclyro-NethergardeKeep	Flamegor	50
+1606333107	EP	Soulrider-NethergardeKeep	Flamegor	50
+1606333107	EP	Woodlieman-NethergardeKeep	Flamegor	50
+1606333107	EP	Coachtaylor-NethergardeKeep	Flamegor	50
+1606333107	EP	Ragehoof-NethergardeKeep	Flamegor	50
+1606333107	EP	Zamaj-NethergardeKeep	Flamegor	50
+1606333107	EP	Elfenjagd-NethergardeKeep	Flamegor	50
+1606333107	EP	Zynn-NethergardeKeep	Flamegor	50
+1606333107	EP	Woosch-NethergardeKeep	Flamegor	50
+1606333107	EP	Kixom-NethergardeKeep	Flamegor	50
+1606333107	EP	Tdshogun-NethergardeKeep	Flamegor	50
+1606333107	EP	Howzaa-NethergardeKeep	Flamegor	50
+1606333107	EP	Dirtyberty-NethergardeKeep	Flamegor	50
+1606333107	EP	Magicali-NethergardeKeep	Flamegor	50
+1606333107	EP	Icetomeetyou-NethergardeKeep	Flamegor	50
+1606333188	EP	Brainboi-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Malassezia-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Seamara-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Urmel-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Enthrallis-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Rumbeer-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Possumo-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Psolokrator-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Jakko-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Umtiti-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Ichirga-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Iceolated-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Kladiar-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Eedgi-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Ravonix-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Chandelly-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Kojaevel-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Vinhuntz-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Happyneal-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Badazz-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Tearless-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Vyagra-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Woof-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Ophidium-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Corpsechan-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Beefyclyro-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Soulrider-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Woodlieman-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Coachtaylor-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Zamaj-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Ragehoof-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Elfenjagd-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Zynn-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Woosch-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Kixom-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Tdshogun-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Howzaa-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Dirtyberty-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Magicali-NethergardeKeep	bwl last 2 bosses	100
+1606333188	EP	Icetomeetyou-NethergardeKeep	bwl last 2 bosses	100
+1606333984	GP	Icetomeetyou-NethergardeKeep	initial	1000
+1606333990	EP	Icetomeetyou-NethergardeKeep	initial	1000
+1606334363	GP	Kixom-NethergardeKeep	[Lok'amir il Romathis]	1096	|cffa335ee|Hitem:19360::::::::60:::::::|h[Lok'amir il Romathis]|h|r
+1606336110	EP	Sameko-NethergardeKeep	BWL standby	400
+1606673210	EP	Brainboi-NethergardeKeep	skeram	89
+1606673210	EP	Malassezia-NethergardeKeep	skeram	89
+1606673210	EP	Seamara-NethergardeKeep	skeram	89
+1606673210	EP	Enthrallis-NethergardeKeep	skeram	89
+1606673210	EP	Rumbeer-NethergardeKeep	skeram	89
+1606673210	EP	Possumo-NethergardeKeep	skeram	89
+1606673210	EP	Psolokrator-NethergardeKeep	skeram	89
+1606673210	EP	Jakko-NethergardeKeep	skeram	89
+1606673210	EP	Umtiti-NethergardeKeep	skeram	89
+1606673210	EP	Ichirga-NethergardeKeep	skeram	89
+1606673210	EP	Iceolated-NethergardeKeep	skeram	89
+1606673210	EP	Eedgi-NethergardeKeep	skeram	89
+1606673210	EP	Ravonix-NethergardeKeep	skeram	89
+1606673210	EP	Chandelly-NethergardeKeep	skeram	89
+1606673210	EP	Vinhuntz-NethergardeKeep	skeram	89
+1606673210	EP	Badazz-NethergardeKeep	skeram	89
+1606673210	EP	Tearless-NethergardeKeep	skeram	89
+1606673210	EP	Vyagra-NethergardeKeep	skeram	89
+1606673210	EP	Woof-NethergardeKeep	skeram	89
+1606673210	EP	Ophidium-NethergardeKeep	skeram	89
+1606673210	EP	Sneezecheese-NethergardeKeep	skeram	89
+1606673210	EP	Beefyclyro-NethergardeKeep	skeram	89
+1606673210	EP	Soulrider-NethergardeKeep	skeram	89
+1606673210	EP	Woodlieman-NethergardeKeep	skeram	89
+1606673210	EP	Coachtaylor-NethergardeKeep	skeram	89
+1606673210	EP	Rophe-NethergardeKeep	skeram	89
+1606673210	EP	Koriah-NethergardeKeep	skeram	89
+1606673210	EP	Zamaj-NethergardeKeep	skeram	89
+1606673210	EP	Ragehoof-NethergardeKeep	skeram	89
+1606673210	EP	Elfenjagd-NethergardeKeep	skeram	89
+1606673210	EP	Zynn-NethergardeKeep	skeram	89
+1606673210	EP	Woosch-NethergardeKeep	skeram	89
+1606673210	EP	Harrak-NethergardeKeep	skeram	89
+1606673210	EP	Tdshogun-NethergardeKeep	skeram	89
+1606673210	EP	Sameko-NethergardeKeep	skeram	89
+1606673210	EP	Howzaa-NethergardeKeep	skeram	89
+1606673210	EP	Kixom-NethergardeKeep	skeram	89
+1606673210	EP	Dirtyberty-NethergardeKeep	skeram	89
+1606673210	EP	Icetomeetyou-NethergardeKeep	skeram	89
+1606673210	EP	Magicali-NethergardeKeep	skeram	89
+1606673603	EP	Brainboi-NethergardeKeep	Bug Trio	89
+1606673603	EP	Malassezia-NethergardeKeep	Bug Trio	89
+1606673603	EP	Seamara-NethergardeKeep	Bug Trio	89
+1606673603	EP	Enthrallis-NethergardeKeep	Bug Trio	89
+1606673603	EP	Rumbeer-NethergardeKeep	Bug Trio	89
+1606673603	EP	Possumo-NethergardeKeep	Bug Trio	89
+1606673603	EP	Psolokrator-NethergardeKeep	Bug Trio	89
+1606673603	EP	Jakko-NethergardeKeep	Bug Trio	89
+1606673603	EP	Umtiti-NethergardeKeep	Bug Trio	89
+1606673603	EP	Ichirga-NethergardeKeep	Bug Trio	89
+1606673603	EP	Iceolated-NethergardeKeep	Bug Trio	89
+1606673603	EP	Eedgi-NethergardeKeep	Bug Trio	89
+1606673603	EP	Ravonix-NethergardeKeep	Bug Trio	89
+1606673603	EP	Chandelly-NethergardeKeep	Bug Trio	89
+1606673603	EP	Vinhuntz-NethergardeKeep	Bug Trio	89
+1606673603	EP	Badazz-NethergardeKeep	Bug Trio	89
+1606673603	EP	Tearless-NethergardeKeep	Bug Trio	89
+1606673603	EP	Vyagra-NethergardeKeep	Bug Trio	89
+1606673603	EP	Woof-NethergardeKeep	Bug Trio	89
+1606673603	EP	Ophidium-NethergardeKeep	Bug Trio	89
+1606673603	EP	Sneezecheese-NethergardeKeep	Bug Trio	89
+1606673603	EP	Beefyclyro-NethergardeKeep	Bug Trio	89
+1606673603	EP	Soulrider-NethergardeKeep	Bug Trio	89
+1606673603	EP	Woodlieman-NethergardeKeep	Bug Trio	89
+1606673603	EP	Coachtaylor-NethergardeKeep	Bug Trio	89
+1606673603	EP	Rophe-NethergardeKeep	Bug Trio	89
+1606673603	EP	Zamaj-NethergardeKeep	Bug Trio	89
+1606673603	EP	Koriah-NethergardeKeep	Bug Trio	89
+1606673603	EP	Ragehoof-NethergardeKeep	Bug Trio	89
+1606673603	EP	Elfenjagd-NethergardeKeep	Bug Trio	89
+1606673603	EP	Zynn-NethergardeKeep	Bug Trio	89
+1606673603	EP	Woosch-NethergardeKeep	Bug Trio	89
+1606673603	EP	Harrak-NethergardeKeep	Bug Trio	89
+1606673603	EP	Tdshogun-NethergardeKeep	Bug Trio	89
+1606673603	EP	Sameko-NethergardeKeep	Bug Trio	89
+1606673603	EP	Howzaa-NethergardeKeep	Bug Trio	89
+1606673603	EP	Kixom-NethergardeKeep	Bug Trio	89
+1606673603	EP	Dirtyberty-NethergardeKeep	Bug Trio	89
+1606673603	EP	Icetomeetyou-NethergardeKeep	Bug Trio	89
+1606673603	EP	Magicali-NethergardeKeep	Bug Trio	89
+1606674092	EP	Brainboi-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Malassezia-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Seamara-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Enthrallis-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Rumbeer-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Possumo-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Psolokrator-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Jakko-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Umtiti-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Ichirga-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Iceolated-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Eedgi-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Ravonix-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Chandelly-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Vinhuntz-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Badazz-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Tearless-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Vyagra-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Woof-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Ophidium-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Sneezecheese-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Beefyclyro-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Soulrider-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Woodlieman-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Coachtaylor-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Rophe-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Zamaj-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Koriah-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Ragehoof-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Elfenjagd-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Zynn-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Woosch-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Harrak-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Tdshogun-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Sameko-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Howzaa-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Kixom-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Dirtyberty-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Icetomeetyou-NethergardeKeep	Battleguard Sartura	89
+1606674092	EP	Magicali-NethergardeKeep	Battleguard Sartura	89
+1606674385	EP	Brainboi-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Malassezia-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Seamara-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Enthrallis-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Rumbeer-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Possumo-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Psolokrator-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Jakko-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Umtiti-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Ichirga-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Iceolated-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Eedgi-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Ravonix-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Chandelly-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Vinhuntz-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Badazz-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Tearless-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Vyagra-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Woof-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Ophidium-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Sneezecheese-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Beefyclyro-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Soulrider-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Woodlieman-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Coachtaylor-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Zamaj-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Rophe-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Koriah-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Ragehoof-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Elfenjagd-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Woosch-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Zynn-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Harrak-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Tdshogun-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Sameko-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Howzaa-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Kixom-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Dirtyberty-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Icetomeetyou-NethergardeKeep	Fankriss the Unyielding	89
+1606674385	EP	Magicali-NethergardeKeep	Fankriss the Unyielding	89
+1606674721	EP	Brainboi-NethergardeKeep	Viscidus	89
+1606674721	EP	Malassezia-NethergardeKeep	Viscidus	89
+1606674721	EP	Seamara-NethergardeKeep	Viscidus	89
+1606674721	EP	Enthrallis-NethergardeKeep	Viscidus	89
+1606674721	EP	Rumbeer-NethergardeKeep	Viscidus	89
+1606674721	EP	Possumie-NethergardeKeep	Viscidus	89
+1606674721	EP	Psolokrator-NethergardeKeep	Viscidus	89
+1606674721	EP	Jakko-NethergardeKeep	Viscidus	89
+1606674721	EP	Umtiti-NethergardeKeep	Viscidus	89
+1606674721	EP	Ichirga-NethergardeKeep	Viscidus	89
+1606674721	EP	Iceolated-NethergardeKeep	Viscidus	89
+1606674721	EP	Eedgi-NethergardeKeep	Viscidus	89
+1606674721	EP	Ravonix-NethergardeKeep	Viscidus	89
+1606674721	EP	Chandelly-NethergardeKeep	Viscidus	89
+1606674721	EP	Vinhuntz-NethergardeKeep	Viscidus	89
+1606674721	EP	Badazz-NethergardeKeep	Viscidus	89
+1606674721	EP	Tearless-NethergardeKeep	Viscidus	89
+1606674721	EP	Vyagra-NethergardeKeep	Viscidus	89
+1606674721	EP	Woof-NethergardeKeep	Viscidus	89
+1606674721	EP	Ophidium-NethergardeKeep	Viscidus	89
+1606674721	EP	Sneezecheese-NethergardeKeep	Viscidus	89
+1606674721	EP	Herex-NethergardeKeep	Viscidus	89
+1606674721	EP	Soulrider-NethergardeKeep	Viscidus	89
+1606674721	EP	Woodlieman-NethergardeKeep	Viscidus	89
+1606674721	EP	Zamaj-NethergardeKeep	Viscidus	89
+1606674721	EP	Coachtaylor-NethergardeKeep	Viscidus	89
+1606674721	EP	Rophe-NethergardeKeep	Viscidus	89
+1606674721	EP	Koriah-NethergardeKeep	Viscidus	89
+1606674721	EP	Ragehoof-NethergardeKeep	Viscidus	89
+1606674721	EP	Elfenjagd-NethergardeKeep	Viscidus	89
+1606674721	EP	Woosch-NethergardeKeep	Viscidus	89
+1606674721	EP	Zynn-NethergardeKeep	Viscidus	89
+1606674721	EP	Harrak-NethergardeKeep	Viscidus	89
+1606674721	EP	Tdshogun-NethergardeKeep	Viscidus	89
+1606674721	EP	Sameko-NethergardeKeep	Viscidus	89
+1606674721	EP	Howzaa-NethergardeKeep	Viscidus	89
+1606674721	EP	Kixom-NethergardeKeep	Viscidus	89
+1606674721	EP	Dirtyberty-NethergardeKeep	Viscidus	89
+1606674721	EP	Icetomeetyou-NethergardeKeep	Viscidus	89
+1606674721	EP	Magicali-NethergardeKeep	Viscidus	89
+1606675372	EP	Brainboi-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Malassezia-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Seamara-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Enthrallis-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Rumbeer-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Possumo-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Psolokrator-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Jakko-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Umtiti-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Ichirga-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Iceolated-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Eedgi-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Ravonix-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Chandelly-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Vinhuntz-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Badazz-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Tearless-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Vyagra-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Woof-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Ophidium-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Sneezecheese-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Beefyclyro-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Soulrider-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Woodlieman-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Zamaj-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Coachtaylor-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Rophe-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Koriah-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Ragehoof-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Elfenjagd-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Woosch-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Zynn-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Harrak-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Tdshogun-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Sameko-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Howzaa-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Kixom-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Dirtyberty-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Icetomeetyou-NethergardeKeep	Princess Huhuran	89
+1606675372	EP	Magicali-NethergardeKeep	Princess Huhuran	89
+1606676393	EP	Brainboi-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Malassezia-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Seamara-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Enthrallis-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Rumbeer-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Possumo-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Psolokrator-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Jakko-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Umtiti-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Ichirga-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Iceolated-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Eedgi-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Ravonix-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Chandelly-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Vinhuntz-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Badazz-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Tearless-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Vyagra-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Woof-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Ophidium-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Sneezecheese-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Beefyclyro-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Soulrider-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Woodlieman-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Zamaj-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Coachtaylor-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Rophe-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Koriah-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Ragehoof-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Elfenjagd-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Woosch-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Zynn-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Harrak-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Tdshogun-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Sameko-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Howzaa-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Kixom-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Icetomeetyou-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Dirtyberty-NethergardeKeep	Twin Emperors	89
+1606676393	EP	Magicali-NethergardeKeep	Twin Emperors	89
+1606678191	EP	Brainboi-NethergardeKeep	Ouro	89
+1606678191	EP	Malassezia-NethergardeKeep	Ouro	89
+1606678191	EP	Seamara-NethergardeKeep	Ouro	89
+1606678191	EP	Enthrallis-NethergardeKeep	Ouro	89
+1606678191	EP	Rumbeer-NethergardeKeep	Ouro	89
+1606678191	EP	Possumo-NethergardeKeep	Ouro	89
+1606678191	EP	Psolokrator-NethergardeKeep	Ouro	89
+1606678191	EP	Jakko-NethergardeKeep	Ouro	89
+1606678191	EP	Umtiti-NethergardeKeep	Ouro	89
+1606678191	EP	Ichirga-NethergardeKeep	Ouro	89
+1606678191	EP	Iceolated-NethergardeKeep	Ouro	89
+1606678191	EP	Eedgi-NethergardeKeep	Ouro	89
+1606678191	EP	Ravonix-NethergardeKeep	Ouro	89
+1606678191	EP	Chandelly-NethergardeKeep	Ouro	89
+1606678191	EP	Vinhuntz-NethergardeKeep	Ouro	89
+1606678191	EP	Badazz-NethergardeKeep	Ouro	89
+1606678191	EP	Tearless-NethergardeKeep	Ouro	89
+1606678191	EP	Vyagra-NethergardeKeep	Ouro	89
+1606678191	EP	Woof-NethergardeKeep	Ouro	89
+1606678191	EP	Ophidium-NethergardeKeep	Ouro	89
+1606678191	EP	Sneezecheese-NethergardeKeep	Ouro	89
+1606678191	EP	Beefyclyro-NethergardeKeep	Ouro	89
+1606678191	EP	Soulrider-NethergardeKeep	Ouro	89
+1606678191	EP	Woodlieman-NethergardeKeep	Ouro	89
+1606678191	EP	Zamaj-NethergardeKeep	Ouro	89
+1606678191	EP	Coachtaylor-NethergardeKeep	Ouro	89
+1606678191	EP	Rophe-NethergardeKeep	Ouro	89
+1606678191	EP	Koriah-NethergardeKeep	Ouro	89
+1606678191	EP	Ragehoof-NethergardeKeep	Ouro	89
+1606678191	EP	Elfenjagd-NethergardeKeep	Ouro	89
+1606678191	EP	Woosch-NethergardeKeep	Ouro	89
+1606678191	EP	Zynn-NethergardeKeep	Ouro	89
+1606678191	EP	Harrak-NethergardeKeep	Ouro	89
+1606678191	EP	Tdshogun-NethergardeKeep	Ouro	89
+1606678191	EP	Sameko-NethergardeKeep	Ouro	89
+1606678191	EP	Howzaa-NethergardeKeep	Ouro	89
+1606678191	EP	Kixom-NethergardeKeep	Ouro	89
+1606678191	EP	Icetomeetyou-NethergardeKeep	Ouro	89
+1606678191	EP	Dirtyberty-NethergardeKeep	Ouro	89
+1606678191	EP	Magicali-NethergardeKeep	Ouro	89
+1606679159	EP	Brainboi-NethergardeKeep	C'Thun	89
+1606679159	EP	Malassezia-NethergardeKeep	C'Thun	89
+1606679159	EP	Seamara-NethergardeKeep	C'Thun	89
+1606679159	EP	Enthrallis-NethergardeKeep	C'Thun	89
+1606679159	EP	Rumbeer-NethergardeKeep	C'Thun	89
+1606679159	EP	Possumo-NethergardeKeep	C'Thun	89
+1606679159	EP	Psolokrator-NethergardeKeep	C'Thun	89
+1606679159	EP	Jakko-NethergardeKeep	C'Thun	89
+1606679159	EP	Umtiti-NethergardeKeep	C'Thun	89
+1606679159	EP	Ichirga-NethergardeKeep	C'Thun	89
+1606679159	EP	Iceolated-NethergardeKeep	C'Thun	89
+1606679159	EP	Eedgi-NethergardeKeep	C'Thun	89
+1606679159	EP	Ravonix-NethergardeKeep	C'Thun	89
+1606679159	EP	Chandelly-NethergardeKeep	C'Thun	89
+1606679159	EP	Vinhuntz-NethergardeKeep	C'Thun	89
+1606679159	EP	Badazz-NethergardeKeep	C'Thun	89
+1606679159	EP	Tearless-NethergardeKeep	C'Thun	89
+1606679159	EP	Vyagra-NethergardeKeep	C'Thun	89
+1606679159	EP	Woof-NethergardeKeep	C'Thun	89
+1606679159	EP	Ophidium-NethergardeKeep	C'Thun	89
+1606679159	EP	Sneezecheese-NethergardeKeep	C'Thun	89
+1606679159	EP	Beefyclyro-NethergardeKeep	C'Thun	89
+1606679159	EP	Soulrider-NethergardeKeep	C'Thun	89
+1606679159	EP	Woodlieman-NethergardeKeep	C'Thun	89
+1606679159	EP	Zamaj-NethergardeKeep	C'Thun	89
+1606679159	EP	Coachtaylor-NethergardeKeep	C'Thun	89
+1606679159	EP	Rophe-NethergardeKeep	C'Thun	89
+1606679159	EP	Koriah-NethergardeKeep	C'Thun	89
+1606679159	EP	Ragehoof-NethergardeKeep	C'Thun	89
+1606679159	EP	Elfenjagd-NethergardeKeep	C'Thun	89
+1606679159	EP	Woosch-NethergardeKeep	C'Thun	89
+1606679159	EP	Zynn-NethergardeKeep	C'Thun	89
+1606679159	EP	Harrak-NethergardeKeep	C'Thun	89
+1606679159	EP	Tdshogun-NethergardeKeep	C'Thun	89
+1606679159	EP	Sameko-NethergardeKeep	C'Thun	89
+1606679159	EP	Howzaa-NethergardeKeep	C'Thun	89
+1606679159	EP	Icetomeetyou-NethergardeKeep	C'Thun	89
+1606679159	EP	Kixom-NethergardeKeep	C'Thun	89
+1606679159	EP	Dirtyberty-NethergardeKeep	C'Thun	89
+1606679159	EP	Magicali-NethergardeKeep	C'Thun	89
+1606679297	GP	Psolokrator-NethergardeKeep	[Breastplate of Annihilation]	331	|cffa335ee|Hitem:21814::::::::60:::::::|h[Breastplate of Annihilation]|h|r
+1606679421	GP	Vyagra-NethergardeKeep	[Sartura's Might]	400	|cffa335ee|Hitem:21666::::::::60:::::::|h[Sartura's Might]|h|r
+1606679504	GP	Zamaj-NethergardeKeep	[Scaled Sand Reaver Leggings]	426	|cffa335ee|Hitem:21651::::::::60:::::::|h[Scaled Sand Reaver Leggings]|h|r
+1606679614	GP	Elfenjagd-NethergardeKeep	[Qiraji Bindings of Command]	345	|cffa335ee|Hitem:20928::::::::60:::::::|h[Qiraji Bindings of Command]|h|r
+1606679706	GP	Tdshogun-NethergardeKeep	[Qiraji Bindings of Dominance]	345	|cffa335ee|Hitem:20932::::::::60:::::::|h[Qiraji Bindings of Dominance]|h|r
+1606679752	GP	Elfenjagd-NethergardeKeep	[Hive Defiler Wristguards]	508	|cffa335ee|Hitem:21618::::::::60:::::::|h[Hive Defiler Wristguards]|h|r
+1606680021	GP	Ragehoof-NethergardeKeep	[Ring of Emperor Vek'lor]	307	|cffa335ee|Hitem:21601::::::::60:::::::|h[Ring of Emperor Vek'lor]|h|r
+1606680054	GP	Soulrider-NethergardeKeep	[Ouro's Intact Hide]	548	|cffa335ee|Hitem:20927::::::::60:::::::|h[Ouro's Intact Hide]|h|r
+1606680174	GP	Seamara-NethergardeKeep	[Jom Gabbar]	1370	|cffa335ee|Hitem:23570::::::::60:::::::|h[Jom Gabbar]|h|r
+1606680189	GP	Zynn-NethergardeKeep	[Carapace of the Old God]	1096	|cffa335ee|Hitem:20929::::::::60:::::::|h[Carapace of the Old God]|h|r
+1606680252	GP	Possumo-NethergardeKeep	[Eye of C'Thun]	954	|cffa335ee|Hitem:21221::::::::60:::::::|h[Eye of C'Thun]|h|r
+1606680336	GP	Possumo-NethergardeKeep	[Cloak of the Devoured]	954	|cffa335ee|Hitem:22731::::::::60:::::::|h[Cloak of the Devoured]|h|r
+1606680370	GP	Tearless-NethergardeKeep	[Cloak of Clarity]	954	|cffa335ee|Hitem:21583::::::::60:::::::|h[Cloak of Clarity]|h|r
+1606680940	GP	Zynn-NethergardeKeep	[Carapace of the Old God]	-1096	|cffa335ee|Hitem:20929::::::::60:::::::|h[Carapace of the Old God]|h|r
+1606680946	GP	Tdshogun-NethergardeKeep	[Carapace of the Old God]	1096	|cffa335ee|Hitem:20929::::::::60:::::::|h[Carapace of the Old God]|h|r
+1606682164	EP	Urmel-NethergardeKeep	AQ40 standby	801
+1606682195	EP	Kladiar-NethergardeKeep	AQ40 standby	801
+1606682200	EP	Kojaevel-NethergardeKeep	AQ40 standby	801
+1606682209	EP	Corpsechan-NethergardeKeep	AQ40 standby	801
