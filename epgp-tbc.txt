@@ -1,0 +1,351 @@
+#	timestamp	1631742906
+#	version	v1.0
+#	addon	v1.6.2-tbc
+#	interface	20502
+
+#	region	eu
+#	realm	Nethergarde Keep
+#	guild	Hellscream
+#	base_gp	0
+#	min_ep	0
+#	decay_p	15
+#	extras_p	100
+#	outsiders	0
+
+#	roster	name,ep,gp,class
+Kixom-NethergardeKeep	37000	10000	SHAMAN
+Ravonix-NethergardeKeep	49000	10000	MAGE
+Vadorzo-NethergardeKeep	31000	10000	HUNTER
+Préacher-NethergardeKeep	46000	10000	HUNTER
+Droodoo-NethergardeKeep	10000	10000	DRUID
+Dirtyberty-NethergardeKeep	25000	10000	WARLOCK
+Iceolated-NethergardeKeep	37000	10000	MAGE
+Seidir-NethergardeKeep	43000	10000	SHAMAN
+Brainboi-NethergardeKeep	42500	10000	DRUID
+Woosch-NethergardeKeep	40000	10000	ROGUE
+Ûrmel-NethergardeKeep	49000	10000	ROGUE
+Beefyclyro-NethergardeKeep	31000	10000	WARRIOR
+Vanica-NethergardeKeep	31000	10000	PALADIN
+Reex-NethergardeKeep	10000	10000	WARRIOR
+Parzíval-NethergardeKeep	28000	10000	PRIEST
+Rageseer-NethergardeKeep	34000	10000	SHAMAN
+Evilgeesus-NethergardeKeep	19000	10000	ROGUE
+Woof-NethergardeKeep	46000	10000	DRUID
+Kitianas-NethergardeKeep	46000	10000	PRIEST
+Rigwald-NethergardeKeep	40000	10000	WARRIOR
+Sokas-NethergardeKeep	31000	10000	PRIEST
+Happyneal-NethergardeKeep	43000	10000	WARRIOR
+Vinyx-NethergardeKeep	34000	10000	HUNTER
+Ovst-NethergardeKeep	28000	10000	PRIEST
+Whitesleeves-NethergardeKeep	37000	10000	PRIEST
+Conclusive-NethergardeKeep	31000	10000	HUNTER
+Psolokrator-NethergardeKeep	34000	10000	WARRIOR
+Corpsechan-NethergardeKeep	13000	10000	WARLOCK
+Earthhunter-NethergardeKeep	31000	10000	HUNTER
+Howzaap-NethergardeKeep	37000	10000	WARLOCK
+Amitead-NethergardeKeep	43000	10000	MAGE
+Kojaevel-NethergardeKeep	40000	10000	DRUID
+Ggjustice-NethergardeKeep	10000	10000	WARLOCK
+Rumbeer-NethergardeKeep	22000	10000	WARLOCK
+Palazynn-NethergardeKeep	40000	10000	PALADIN
+Deadlyfaith-NethergardeKeep	43000	10000	PALADIN
+Serrak-NethergardeKeep	31000	10000	WARLOCK
+Grothaal-NethergardeKeep	19000	10000	HUNTER
+Thraff-NethergardeKeep	10000	10000	SHAMAN
+Gadunk-NethergardeKeep	28000	10000	WARLOCK
+Opossum-NethergardeKeep	40000	10000	PALADIN
+Pandaguud-NethergardeKeep	10000	10000	SHAMAN
+Killacow-NethergardeKeep	31000	10000	SHAMAN
+Ichirga-NethergardeKeep	49000	10000	WARRIOR
+Klass-NethergardeKeep	46000	10000	WARLOCK
+Beastyinside-NethergardeKeep	37000	10000	HUNTER
+Critiqal-NethergardeKeep	31000	10000	WARLOCK
+Saelchiril-NethergardeKeep	46000	10000	PALADIN
+Domesticated-NethergardeKeep	49000	10000	DRUID
+Imnotatroll-NethergardeKeep	31000	10000	DRUID
+Kladiar-NethergardeKeep	40000	10000	MAGE
+Koriah-NethergardeKeep	22000	10000	SHAMAN
+Sazerac-NethergardeKeep	34000	10000	HUNTER
+Mjranda-NethergardeKeep	37000	10000	SHAMAN
+Sneezecheese-NethergardeKeep	22000	10000	DRUID
+Hodgepodge-NethergardeKeep	37000	10000	DRUID
+Voodoobonk-NethergardeKeep	37000	10000	SHAMAN
+Sameko-NethergardeKeep	22000	10000	SHAMAN
+Zulgin-NethergardeKeep	34000	10000	SHAMAN
+Aelor-NethergardeKeep	40000	10000	PALADIN
+
+#	log	timestamp,type,name,reason,value
+1631450126	GP	Saelchiril-NethergardeKeep	[Warglaive of Azzinoth]	68922	|cffff8000|Hitem:32838::::::::70:::::::::|h[Warglaive of Azzinoth]|h|r
+1631450165	GP	Saelchiril-NethergardeKeep	[Warglaive of Azzinoth]	-68922	|cffff8000|Hitem:32838::::::::70:::::::::|h[Warglaive of Azzinoth]|h|r
+1631450232	EP	Saelchiril-NethergardeKeep	teaching you guys how to use the epgp addon	99999
+1631450270	EP	Saelchiril-NethergardeKeep	no cheating	-99999
+1631450451	EP	Saelchiril-NethergardeKeep	free EP for all	100
+1631450451	EP	Seamara-NethergardeKeep	free EP for all	100
+1631450471	EP	Saelchiril-NethergardeKeep	that's a 100 EP minus	-100
+1631450471	EP	Seamara-NethergardeKeep	that's a 100 EP minus	-100
+1631454850	GP	Seamara-NethergardeKeep	[Swift Red Windrider]	1000	|cffa335ee|Hitem:25477::::::::70:::::::::|h[Swift Red Windrider]|h|r
+1631454858	GP	Seamara-NethergardeKeep	[Swift Red Windrider]	-1000	|cffa335ee|Hitem:25477::::::::70:::::::::|h[Swift Red Windrider]|h|r
+1631739579	EP	Seamara-NethergardeKeep	test	1
+1631739717	EP	Seamara-NethergardeKeep	initial	1
+1631739827	EP	Kixom-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Kixom-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Ryumaru-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Ryumaru-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Ravonix-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Ravonix-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Préacher-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Préacher-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Dirtyberty-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Dirtyberty-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Iceolated-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Iceolated-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Eedgi-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Eedgi-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Seidir-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Seidir-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Brainboi-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Brainboi-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Woosch-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Woosch-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Soulrider-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Soulrider-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Ûrmel-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Ûrmel-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Beefyclyro-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Beefyclyro-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Vanica-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Vanica-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Reex-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Reex-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Parzíval-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Parzíval-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Rageseer-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Rageseer-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Vakfolt-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Vakfolt-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Umtiti-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Umtiti-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Woof-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Woof-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Kitianas-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Kitianas-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Yakuzá-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Yakuzá-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Pipson-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Pipson-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Rigwald-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Rigwald-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Sokas-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Sokas-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Happyneal-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Happyneal-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Vinyx-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Vinyx-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Butterskotch-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Butterskotch-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Conclusive-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Conclusive-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Psolokrator-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Psolokrator-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Corpsechan-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Corpsechan-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Howzaap-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Howzaap-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Amitead-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Amitead-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Kojaevel-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Kojaevel-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Rumbeer-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Rumbeer-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Palazynn-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Palazynn-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Deadlyfaith-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Deadlyfaith-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Chandelly-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Chandelly-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Tearless-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Tearless-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Serrak-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Serrak-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Grothaal-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Grothaal-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Gadunk-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Gadunk-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Opossum-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Opossum-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Pandaguud-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Pandaguud-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Killacow-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Killacow-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Ichirga-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Ichirga-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Klass-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Klass-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Beastyinside-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Beastyinside-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Critiqal-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Critiqal-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Saelchiril-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Saelchiril-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Kladiar-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Kladiar-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Koriah-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Koriah-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Sazerac-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Sazerac-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Mjranda-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Mjranda-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Kikimora-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Kikimora-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Sneezecheese-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Sneezecheese-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Hodgepodge-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Hodgepodge-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Seamara-NethergardeKeep	Decay 100%	-2
+1631739827	EP	Sameko-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Sameko-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Zulgin-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Zulgin-NethergardeKeep	Decay 100%	-10000
+1631739827	EP	Aelor-NethergardeKeep	Decay 100%	-10000
+1631739827	GP	Aelor-NethergardeKeep	Decay 100%	-10000
+1631740883	EP	Saelchiril-NethergardeKeep	Blatant corruption	49000
+1631740895	GP	Saelchiril-NethergardeKeep	initial	10000
+1631740908	GP	Saelchiril-NethergardeKeep	[Fang of the Leviathan]	15000	|cffa335ee|Hitem:30095::::::::70:::::::::|h[Fang of the Leviathan]|h|r
+1631740919	GP	Seamara-NethergardeKeep	initial	10000
+1631740934	EP	Seamara-NethergardeKeep	even more corruption	10000
+1631740946	EP	Saelchiril-NethergardeKeep	Decay 15%	-7350
+1631740946	GP	Saelchiril-NethergardeKeep	Decay 15%	-3750
+1631740946	EP	Seamara-NethergardeKeep	Decay 15%	-1500
+1631740946	GP	Seamara-NethergardeKeep	Decay 15%	-1500
+1631740982	EP	Seamara-NethergardeKeep	even more corruption	7500
+1631740988	EP	Saelchiril-NethergardeKeep	even more corruption	7500
+1631741050	EP	Saelchiril-NethergardeKeep	Decay 15%	-7373
+1631741050	GP	Saelchiril-NethergardeKeep	Decay 15%	-3188
+1631741050	EP	Seamara-NethergardeKeep	Decay 15%	-2400
+1631741050	GP	Seamara-NethergardeKeep	Decay 15%	-1275
+1631741055	EP	Seamara-NethergardeKeep	even more corruption	7500
+1631741059	EP	Saelchiril-NethergardeKeep	even more corruption	7500
+1631741114	EP	Saelchiril-NethergardeKeep	Decay 100%	-49277
+1631741114	GP	Saelchiril-NethergardeKeep	Decay 100%	-18062
+1631741114	EP	Seamara-NethergardeKeep	Decay 100%	-21100
+1631741114	GP	Seamara-NethergardeKeep	Decay 100%	-7225
+1631741938	GP	Killacow-NethergardeKeep	initial	10000
+1631741988	GP	Voodoobonk-NethergardeKeep	initial	10000
+1631741996	GP	Ovst-NethergardeKeep	initial	10000
+1631741999	GP	Whitesleeves-NethergardeKeep	initial	10000
+1631742005	GP	Brainboi-NethergardeKeep	initial	10000
+1631742008	GP	Sneezecheese-NethergardeKeep	initial	10000
+1631742011	GP	Sokas-NethergardeKeep	initial	10000
+1631742015	GP	Kixom-NethergardeKeep	initial	10000
+1631742020	GP	Pandaguud-NethergardeKeep	initial	10000
+1631742023	GP	Hodgepodge-NethergardeKeep	initial	10000
+1631742026	GP	Iceolated-NethergardeKeep	initial	10000
+1631742029	GP	Ravonix-NethergardeKeep	initial	10000
+1631742033	GP	Gadunk-NethergardeKeep	initial	10000
+1631742037	GP	Ggjustice-NethergardeKeep	initial	10000
+1631742040	GP	Dirtyberty-NethergardeKeep	initial	10000
+1631742043	GP	Howzaap-NethergardeKeep	initial	10000
+1631742061	GP	Rumbeer-NethergardeKeep	initial	10000
+1631742065	GP	Earthhunter-NethergardeKeep	initial	10000
+1631742083	GP	Sazerac-NethergardeKeep	initial	10000
+1631742087	GP	Vinyx-NethergardeKeep	initial	10000
+1631742109	GP	Préacher-NethergardeKeep	initial	10000
+1631742120	GP	Psolokrator-NethergardeKeep	initial	10000
+1631742126	GP	Evilgeesus-NethergardeKeep	initial	10000
+1631742130	GP	Woosch-NethergardeKeep	initial	10000
+1631742133	GP	Vanica-NethergardeKeep	initial	10000
+1631742139	GP	Koriah-NethergardeKeep	initial	10000
+1631742142	GP	Woof-NethergardeKeep	initial	10000
+1631742150	GP	Aelor-NethergardeKeep	initial	10000
+1631742174	GP	Palazynn-NethergardeKeep	initial	10000
+1631742184	GP	Beefyclyro-NethergardeKeep	initial	10000
+1631742192	GP	Zulgin-NethergardeKeep	initial	10000
+1631742198	GP	Seidir-NethergardeKeep	initial	10000
+1631742202	GP	Kitianas-NethergardeKeep	initial	10000
+1631742205	GP	Domesticated-NethergardeKeep	initial	10000
+1631742209	GP	Kojaevel-NethergardeKeep	initial	10000
+1631742216	GP	Opossum-NethergardeKeep	initial	10000
+1631742250	GP	Parzíval-NethergardeKeep	initial	10000
+1631742263	GP	Thraff-NethergardeKeep	initial	10000
+1631742274	GP	Rageseer-NethergardeKeep	initial	10000
+1631742277	GP	Imnotatroll-NethergardeKeep	initial	10000
+1631742280	GP	Amitead-NethergardeKeep	initial	10000
+1631742283	GP	Kladiar-NethergardeKeep	initial	10000
+1631742287	GP	Klass-NethergardeKeep	initial	10000
+1631742290	GP	Corpsechan-NethergardeKeep	initial	10000
+1631742294	GP	Serrak-NethergardeKeep	initial	10000
+1631742298	GP	Critiqal-NethergardeKeep	initial	10000
+1631742302	GP	Vadorzo-NethergardeKeep	initial	10000
+1631742305	GP	Conclusive-NethergardeKeep	initial	10000
+1631742309	GP	Grothaal-NethergardeKeep	initial	10000
+1631742312	GP	Beastyinside-NethergardeKeep	initial	10000
+1631742316	GP	Reex-NethergardeKeep	initial	10000
+1631742320	GP	Rigwald-NethergardeKeep	initial	10000
+1631742323	GP	Ichirga-NethergardeKeep	initial	10000
+1631742327	GP	Ûrmel-NethergardeKeep	initial	10000
+1631742330	GP	Deadlyfaith-NethergardeKeep	initial	10000
+1631742333	GP	Mjranda-NethergardeKeep	initial	10000
+1631742336	GP	Sameko-NethergardeKeep	initial	10000
+1631742340	GP	Droodoo-NethergardeKeep	initial	10000
+1631742343	GP	Saelchiril-NethergardeKeep	initial	10000
+1631742346	GP	Happyneal-NethergardeKeep	initial	10000
+1631742403	EP	Killacow-NethergardeKeep	initial-attendance-award	31000
+1631742421	EP	Voodoobonk-NethergardeKeep	initial-attendance-award	37000
+1631742426	EP	Ovst-NethergardeKeep	initial-attendance-award	28000
+1631742429	EP	Whitesleeves-NethergardeKeep	initial-attendance-award	37000
+1631742433	EP	Brainboi-NethergardeKeep	initial-attendance-award	42500
+1631742437	EP	Sneezecheese-NethergardeKeep	initial-attendance-award	22000
+1631742440	EP	Sokas-NethergardeKeep	initial-attendance-award	31000
+1631742444	EP	Kixom-NethergardeKeep	initial-attendance-award	37000
+1631742447	EP	Pandaguud-NethergardeKeep	initial-attendance-award	10000
+1631742451	EP	Hodgepodge-NethergardeKeep	initial-attendance-award	37000
+1631742454	EP	Iceolated-NethergardeKeep	initial-attendance-award	37000
+1631742458	EP	Ravonix-NethergardeKeep	initial-attendance-award	49000
+1631742462	EP	Gadunk-NethergardeKeep	initial-attendance-award	28000
+1631742466	EP	Ggjustice-NethergardeKeep	initial-attendance-award	10000
+1631742469	EP	Dirtyberty-NethergardeKeep	initial-attendance-award	25000
+1631742472	EP	Howzaap-NethergardeKeep	initial-attendance-award	37000
+1631742476	EP	Rumbeer-NethergardeKeep	initial-attendance-award	22000
+1631742479	EP	Earthhunter-NethergardeKeep	initial-attendance-award	31000
+1631742482	EP	Sazerac-NethergardeKeep	initial-attendance-award	34000
+1631742486	EP	Vinyx-NethergardeKeep	initial-attendance-award	34000
+1631742489	EP	Préacher-NethergardeKeep	initial-attendance-award	46000
+1631742493	EP	Psolokrator-NethergardeKeep	initial-attendance-award	34000
+1631742496	EP	Evilgeesus-NethergardeKeep	initial-attendance-award	19000
+1631742503	EP	Woosch-NethergardeKeep	initial-attendance-award	40000
+1631742508	EP	Vanica-NethergardeKeep	initial-attendance-award	31000
+1631742516	EP	Koriah-NethergardeKeep	initial-attendance-award	22000
+1631742520	EP	Woof-NethergardeKeep	initial-attendance-award	46000
+1631742523	EP	Aelor-NethergardeKeep	initial-attendance-award	40000
+1631742527	EP	Palazynn-NethergardeKeep	initial-attendance-award	40000
+1631742536	EP	Beefyclyro-NethergardeKeep	initial-attendance-award	31000
+1631742543	EP	Zulgin-NethergardeKeep	initial-attendance-award	34000
+1631742546	EP	Seidir-NethergardeKeep	initial-attendance-award	43000
+1631742549	EP	Kitianas-NethergardeKeep	initial-attendance-award	46000
+1631742552	EP	Domesticated-NethergardeKeep	initial-attendance-award	49000
+1631742555	EP	Kojaevel-NethergardeKeep	initial-attendance-award	40000
+1631742558	EP	Opossum-NethergardeKeep	initial-attendance-award	40000
+1631742607	EP	Parzíval-NethergardeKeep	initial-attendance-award	28000
+1631742634	EP	Thraff-NethergardeKeep	initial-attendance-award	10000
+1631742638	EP	Rageseer-NethergardeKeep	initial-attendance-award	34000
+1631742642	EP	Imnotatroll-NethergardeKeep	initial-attendance-award	31000
+1631742645	EP	Amitead-NethergardeKeep	initial-attendance-award	43000
+1631742649	EP	Kladiar-NethergardeKeep	initial-attendance-award	40000
+1631742653	EP	Klass-NethergardeKeep	initial-attendance-award	46000
+1631742749	EP	Corpsechan-NethergardeKeep	initial-attendance-award	13000
+1631742754	EP	Serrak-NethergardeKeep	initial-attendance-award	31000
+1631742757	EP	Critiqal-NethergardeKeep	initial-attendance-award	31000
+1631742762	EP	Vadorzo-NethergardeKeep	initial-attendance-award	31000
+1631742765	EP	Conclusive-NethergardeKeep	initial-attendance-award	31000
+1631742769	EP	Grothaal-NethergardeKeep	initial-attendance-award	19000
+1631742771	EP	Beastyinside-NethergardeKeep	initial-attendance-award	37000
+1631742775	EP	Reex-NethergardeKeep	initial-attendance-award	10000
+1631742778	EP	Rigwald-NethergardeKeep	initial-attendance-award	40000
+1631742781	EP	Ichirga-NethergardeKeep	initial-attendance-award	49000
+1631742785	EP	Ûrmel-NethergardeKeep	initial-attendance-award	49000
+1631742788	EP	Deadlyfaith-NethergardeKeep	initial-attendance-award	43000
+1631742790	EP	Mjranda-NethergardeKeep	initial-attendance-award	37000
+1631742794	EP	Sameko-NethergardeKeep	initial-attendance-award	22000
+1631742798	EP	Droodoo-NethergardeKeep	initial-attendance-award	10000
+1631742801	EP	Saelchiril-NethergardeKeep	initial-attendance-award	46000
+1631742804	EP	Happyneal-NethergardeKeep	initial-attendance-award	43000
